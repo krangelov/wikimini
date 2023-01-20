@@ -1,5 +1,23 @@
 abstract Mini = Cat ** {
 
+-- added afterwards, because found in trees
+fun speak_1_V2 : V2 ;
+fun to_1_Prep : Prep ;
+fun north_3_N : N ;
+fun north_america_1_PN : PN ;
+fun but_1_Conj : Conj ;
+fun south_3_N : N ;
+fun square_1_N : N ;
+fun hawaiian_N : N ;
+fun skagit_N : N ;
+fun esselen_N : N ;
+fun chimariko_N : N ;
+fun alabama_4_N : N ;
+fun crow_6_N : N ;
+fun seneca_N : N ;
+fun powhatan_N : N ;
+
+-- incluced in version 1
 fun abu_dhabi_PN : PN ;            -- 09067011-n	[geography] a sheikhdom of eastern Arabia and capital of the United Arab Emirates
 fun abuja_PN : PN ;                -- 08996541-n	[geography] capital of Nigeria in the center of the country
 fun accra_PN : PN ;                -- 08966337-n	[geography] the capital and largest city of Ghana with a deep-water port

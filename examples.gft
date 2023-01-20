@@ -1,0 +1,67 @@
+japan_2_PN
+
+flag_1_N
+
+coat_of_arms_N
+
+PhrUttMark NoPConj (UttS (UseCl (TTAnt TPres ASimul) PPos (PredVP (UsePN japan_2_PN) (UseComp (CompNP (DetCN (DetQuant IndefArt NumSg) (AdvCN (AdvCN (UseN (CompoundN island_1_N state_3_N)) (PrepNP in_1_Prep (UsePN asia_2_PN))) (PrepNP with_Prep (DetCN (DetQuant IndefArt (NumCard (NumDigits (IIDig D_1 (IIDig D_2 (IIDig D_5 (IIDig D_4 (IIDig D_4 (IIDig D_0 (IIDig D_0 (IIDig D_0 (IDig D_0)))))))))))) (UseN inhabitant_1_N)))))))))) NoVoc FullStop
+
+PhrUttMark NoPConj (UttS (UseCl (TTAnt TPres ASimul) PPos (PredVP (UsePron it_Pron) (ComplSlash (SlashV2a have_1_V2) (DetCN (DetQuant IndefArt NumPl) (AdvCN (UseN border_1_N) (PrepNP with_Prep (ConjNP and_Conj (ConsNP (UsePN russia_4_PN) (ConsNP (UsePN south_korea_PN) (ConsNP (UsePN formosa_PN) (ConsNP (UsePN china_1_PN) (BaseNP (UsePN united_states_PN) (UsePN philippines_2_PN)))))))))))))) NoVoc FullStop
+
+PhrUttMark NoPConj (UttS (UseCl (TTAnt TPres ASimul) PPos (PredVP (DetCN (DetQuant DefArt NumSg) (UseN area_6_N)) (UseComp (CompNP (DetCN (DetQuant IndefArt (NumCard (NumDigits (IIDig D_3 (IIDig D_7 (IIDig D_7 (IIDig D_9 (IIDig D_7 (IDig D_2))))))))) (UseN (CompoundN square_1_N kilometre_1_N)))))))) NoVoc FullStop
+
+PhrUttMark NoPConj (UttS (UseCl (TTAnt TPres ASimul) PPos (PredVP (DetCN (DetQuant DefArt NumSg) (UseN capital_3_N)) (UseComp (CompNP (UsePN tokyo_PN)))))) NoVoc FullStop
+
+PhrUttMark NoPConj (UttS (UseCl (TTAnt TPres ASimul) PPos (PredVP (DetCN (DetQuant DefArt NumSg) (AdjCN (PositA official_1_A) (UseN language_1_N))) (UseComp (CompNP (MassNP (UseN japanese_N))))))) NoVoc FullStop
+
+
+
+finland_PN
+
+flag_1_N
+
+coat_of_arms_N
+
+PhrUttMark NoPConj (UttS (UseCl (TTAnt TPres ASimul) PPos (PredVP (UsePN finland_PN) (UseComp (CompNP (DetCN (DetQuant IndefArt NumSg) (AdvCN (AdjCN (PositA nordic_2_A) (UseN country_2_N)) (PrepNP with_Prep (DetCN (DetQuant IndefArt (NumCard (NumDigits (IIDig D_5 (IIDig D_5 (IIDig D_1 (IIDig D_6 (IIDig D_2 (IIDig D_2 (IDig D_4)))))))))) (UseN inhabitant_1_N)))))))))) NoVoc FullStop
+
+PhrUttMark NoPConj (UttS (UseCl (TTAnt TPres ASimul) PPos (PredVP (UsePron it_Pron) (ComplSlash (SlashV2a have_1_V2) (DetCN (DetQuant IndefArt NumPl) (AdvCN (UseN border_1_N) (PrepNP with_Prep (ConjNP and_Conj (ConsNP (UsePN sweden_PN) (BaseNP (UsePN norway_PN) (UsePN russia_4_PN))))))))))) NoVoc FullStop
+
+PhrUttMark NoPConj (UttS (UseCl (TTAnt TPres ASimul) PPos (PredVP (DetCN (DetQuant DefArt NumSg) (UseN area_6_N)) (UseComp (CompNP (DetCN (DetQuant IndefArt (NumCard (NumDigits (IIDig D_3 (IIDig D_3 (IIDig D_8 (IIDig D_4 (IIDig D_2 (IDig D_4))))))))) (UseN (CompoundN square_1_N kilometre_1_N)))))))) NoVoc FullStop
+
+PhrUttMark NoPConj (UttS (UseCl (TTAnt TPres ASimul) PPos (PredVP (DetCN (DetQuant DefArt NumSg) (UseN capital_3_N)) (UseComp (CompNP (UsePN helsinki_PN)))))) NoVoc FullStop
+
+PhrUttMark NoPConj (UttS (ConjS but_1_Conj (BaseS (UseCl (TTAnt TPres ASimul) PPos (PredVP (ConjNP and_Conj (BaseNP (MassNP (UseN finnish_N)) (MassNP (UseN swedish_N)))) (UseComp (CompNP (DetCN (DetQuant DefArt NumPl) (AdjCN (PositA official_1_A) (UseN language_1_N))))))) (UseCl (TTAnt TPres ASimul) PPos (PredVP (ConjNP and_Conj (ConsNP (MassNP (UseN karelian_N)) (ConsNP (MassNP (UseN russian_N)) (ConsNP (MassNP (UseN estonian_N)) (ConsNP (MassNP (UseN arabic_N)) (ConsNP (MassNP (UseN english_N)) (ConsNP (MassNP (UseN somali_N)) (ConsNP (MassNP (UseN kurdish_N)) (ConsNP (MassNP (UseN farsi_2_N)) (ConsNP (MassNP (UseN chinese_N)) (ConsNP (MassNP (UseN albanian_2_N)) (ConsNP (MassNP (UseN vietnamese_2_N)) (ConsNP (MassNP (UseN siamese_1_N)) (ConsNP (MassNP (UseN turkish_N)) (ConsNP (MassNP (UseN spanish_N)) (ConsNP (MassNP (UseN german_N)) (ConsNP (MassNP (UseN polish_4_N)) (ConsNP (MassNP (UseN ukrainian_N)) (ConsNP (MassNP (UseN romanian_N)) (ConsNP (MassNP (UseN french_N)) (ConsNP (MassNP (UseN bengali_3_N)) (ConsNP (MassNP (UseN nepali_N)) (ConsNP (MassNP (UseN urdu_N)) (ConsNP (MassNP (UseN portuguese_1_N)) (ConsNP (MassNP (UseN hungarian_2_N)) (ConsNP (MassNP (UseN italian_N)) (ConsNP (MassNP (UseN bulgarian_N)) (ConsNP (MassNP (UseN hindi_N)) (ConsNP (MassNP (UseN latvian_N)) (ConsNP (MassNP (UseN tamil_2_N)) (ConsNP (MassNP (UseN dutchFem_1_N)) (ConsNP (MassNP (UseN greek_N)) (ConsNP (MassNP (UseN japanese_N)) (ConsNP (MassNP (UseN amharic_N)) (ConsNP (MassNP (UseN lithuanian_N)) (ConsNP (MassNP (UseN serbo_croat_N)) (ConsNP (MassNP (UseN pashto_1_N)) (ConsNP (MassNP (UseN kinyarwanda_N)) (ConsNP (MassNP (UseN telugu_N)) (ConsNP (MassNP (UseN uzbek_N)) (ConsNP (MassNP (UseN yoruba_N)) (ConsNP (MassNP (UseN korean_2_N)) (ConsNP (MassNP (UseN czech_3_N)) (ConsNP (MassNP (UseN norwegian_N)) (ConsNP (MassNP (UseN burmese_2_N)) (ConsNP (MassNP (UseN danish_1_N)) (ConsNP (MassNP (UseN slovak_2_N)) (ConsNP (MassNP (UseN malayalam_N)) (ConsNP (MassNP (UseN marathi_N)) (ConsNP (MassNP (UseN turkmen_N)) (ConsNP (MassNP (UseN akan_N)) (ConsNP (MassNP (UseN macedonian_2_N)) (ConsNP (MassNP (UseN wolof_N)) (ConsNP (MassNP (UseN kannada_N)) (ConsNP (MassNP (UseN gikuyu_N)) (ConsNP (MassNP (UseN hausa_N)) (ConsNP (MassNP (UseN belarusian_N)) (ConsNP (MassNP (UseN tatar_N)) (ConsNP (MassNP (UseN icelandic_N)) (ConsNP (MassNP (UseN slovenian_N)) (ConsNP (MassNP (UseN kazakh_N)) (ConsNP (MassNP (UseN ewe_2_N)) (ConsNP (MassNP (UseN catalan_N)) (ConsNP (MassNP (UseN afrikaans_N)) (ConsNP (MassNP (UseN sindhi_N)) (ConsNP (MassNP (UseN mongolian_2_N)) (ConsNP (MassNP (UseN lao_2_N)) (ConsNP (MassNP (UseN tajik_N)) (ConsNP (MassNP (UseN kashmiri_2_N)) (ConsNP (MassNP (UseN maltese_2_N)) (ConsNP (MassNP (UseN zulu_N)) (ConsNP (MassNP (UseN assamese_N)) (ConsNP (MassNP (UseN faroese_N)) (BaseNP (MassNP (UseN irish_3_N)) (MassNP (UseN sundanese_N)))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))))) (AdVVP also_AdV (PassVPSlash (SlashV2a speak_1_V2)))))))) NoVoc FullStopza
+
+
+sweden_PN
+
+flag_1_N
+
+coat_of_arms_N
+
+PhrUttMark NoPConj (UttS (UseCl (TTAnt TPres ASimul) PPos (PredVP (UsePN sweden_PN) (UseComp (CompNP (DetCN (DetQuant IndefArt NumSg) (AdvCN (AdvCN (AdjCN (PositA nordic_2_A) (UseN country_2_N)) (PrepNP in_1_Prep (UsePN scandinavia_2_PN))) (PrepNP with_Prep (DetCN (DetQuant IndefArt (NumCard (NumDigits (IIDig D_1 (IIDig D_0 (IIDig D_4 (IIDig D_0 (IIDig D_9 (IIDig D_2 (IIDig D_4 (IDig D_8))))))))))) (UseN inhabitant_1_N)))))))))) NoVoc FullStop
+
+PhrUttMark NoPConj (UttS (UseCl (TTAnt TPres ASimul) PPos (PredVP (UsePron it_Pron) (ComplSlash (SlashV2a have_1_V2) (DetCN (DetQuant IndefArt NumPl) (AdvCN (UseN border_1_N) (PrepNP with_Prep (ConjNP and_Conj (ConsNP (AdvNP (UsePN finland_PN) (PrepNP to_1_Prep (DetCN (DetQuant DefArt NumSg) (UseN east_4_N)))) (ConsNP (AdvNP (UsePN norway_PN) (PrepNP to_1_Prep (DetCN (DetQuant DefArt NumSg) (UseN west_2_N)))) (ConsNP (AdvNP (UsePN denmark_PN) (PrepNP to_1_Prep (DetCN (DetQuant DefArt NumSg) (UseN south_3_N)))) (ConsNP (UsePN estonia_PN) (ConsNP (UsePN russia_4_PN) (ConsNP (UsePN latvia_PN) (ConsNP (UsePN lithuania_PN) (BaseNP (UsePN poland_PN) (UsePN germany_PN))))))))))))))))) NoVoc FullStop
+
+PhrUttMark NoPConj (UttS (UseCl (TTAnt TPres ASimul) PPos (PredVP (DetCN (DetQuant DefArt NumSg) (UseN area_6_N)) (UseComp (CompNP (DetCN (DetQuant IndefArt (NumCard (NumDigits (IIDig D_4 (IIDig D_4 (IIDig D_7 (IIDig D_4 (IIDig D_2 (IDig D_5))))))))) (UseN (CompoundN square_1_N kilometre_1_N)))))))) NoVoc FullStop
+
+PhrUttMark NoPConj (UttS (UseCl (TTAnt TPres ASimul) PPos (PredVP (DetCN (DetQuant DefArt NumSg) (UseN capital_3_N)) (UseComp (CompNP (UsePN stockholm_PN)))))) NoVoc FullStop
+
+PhrUttMark NoPConj (UttS (UseCl (TTAnt TPres ASimul) PPos (PredVP (DetCN (DetQuant DefArt NumPl) (AdjCN (PositA official_1_A) (UseN language_1_N))) (UseComp (CompNP (ConjNP and_Conj (ConsNP (MassNP (UseN swedish_N)) (BaseNP (MassNP (UseN finnish_N)) (MassNP (UseN yiddish_N)))))))))) NoVoc FullStop
+
+
+united_states_PN
+
+flag_1_N
+
+coat_of_arms_N
+
+PhrUttMark NoPConj (UttS (UseCl (TTAnt TPres ASimul) PPos (PredVP (UsePN united_states_PN) (UseComp (CompNP (DetCN (DetQuant IndefArt NumSg) (AdvCN (AdvCN (UseN country_2_N) (PrepNP in_1_Prep (UsePN north_america_1_PN))) (PrepNP with_Prep (DetCN (DetQuant IndefArt (NumCard (NumDigits (IIDig D_3 (IIDig D_3 (IIDig D_2 (IIDig D_2 (IIDig D_7 (IIDig D_8 (IIDig D_2 (IIDig D_0 (IDig D_0)))))))))))) (UseN inhabitant_1_N)))))))))) NoVoc FullStop
+
+PhrUttMark NoPConj (UttS (UseCl (TTAnt TPres ASimul) PPos (PredVP (UsePron it_Pron) (ComplSlash (SlashV2a have_1_V2) (DetCN (DetQuant IndefArt NumPl) (AdvCN (UseN border_1_N) (PrepNP with_Prep (ConjNP and_Conj (ConsNP (AdvNP (UsePN mexico_PN) (PrepNP to_1_Prep (DetCN (DetQuant DefArt NumSg) (UseN north_3_N)))) (ConsNP (AdvNP (UsePN canada_PN) (PrepNP to_1_Prep (DetCN (DetQuant DefArt NumSg) (UseN south_3_N)))) (ConsNP (UsePN russia_4_PN) (ConsNP (UsePN cuba_2_PN) (ConsNP (UsePN the_bahamas_PN) (ConsNP (UsePN venezuela_PN) (ConsNP (UsePN dominican_republic_PN) (ConsNP (UsePN federated_states_of_micronesia_PN) (ConsNP (UsePN japan_2_PN) (ConsNP (UsePN kiribati_PN) (ConsNP (UsePN haiti_2_PN) (BaseNP (UsePN samoa_1_PN) (UsePN tonga_PN))))))))))))))))))))) NoVoc FullStop
+
+PhrUttMark NoPConj (UttS (UseCl (TTAnt TPres ASimul) PPos (PredVP (DetCN (DetQuant DefArt NumSg) (UseN area_6_N)) (UseComp (CompNP (DetCN (DetQuant IndefArt (NumCard (NumDigits (IIDig D_9 (IIDig D_8 (IIDig D_2 (IIDig D_6 (IIDig D_6 (IIDig D_7 (IDig D_5)))))))))) (UseN (CompoundN square_1_N kilometre_1_N)))))))) NoVoc FullStop
+
+PhrUttMark NoPConj (UttS (UseCl (TTAnt TPres ASimul) PPos (PredVP (DetCN (DetQuant DefArt NumSg) (UseN capital_3_N)) (UseComp (CompNP (UsePN washington_1_PN)))))) NoVoc FullStop
+
+PhrUttMark NoPConj (UttS (ConjS but_1_Conj (BaseS (UseCl (TTAnt TPres ASimul) PPos (PredVP (ConjNP and_Conj (ConsNP (MassNP (UseN english_N)) (BaseNP (MassNP (UseN hawaiian_N)) (MassNP (UseN spanish_N))))) (UseComp (CompNP (DetCN (DetQuant DefArt NumPl) (AdjCN (PositA official_1_A) (UseN language_1_N))))))) (UseCl (TTAnt TPres ASimul) PPos (PredVP (ConjNP and_Conj (ConsNP (MassNP (UseN skagit_N)) (ConsNP (MassNP (UseN esselen_N)) (ConsNP (MassNP (UseN chimariko_N)) (ConsNP (MassNP (UseN alabama_4_N)) (ConsNP (MassNP (UseN crow_6_N)) (ConsNP (MassNP (UseN seneca_N)) (ConsNP (MassNP (UseN powhatan_N)) (ConsNP (MassNP (UseN dakota_3_N)) (ConsNP (MassNP (UseN winnebago_N)) (ConsNP (MassNP (UseN quapaw_N)) (ConsNP (MassNP (UseN catawba_N)) (ConsNP (MassNP (UseN osage_N)) (ConsNP (MassNP (UseN shawnee_N)) (ConsNP (MassNP (UseN delaware_5_N)) (ConsNP (MassNP (UseN chippewa_N)) (ConsNP (MassNP (UseN hidatsa_N)) (ConsNP (MassNP (UseN nanticoke_N)) (ConsNP (MassNP (UseN kansas_4_N)) (ConsNP (MassNP (UseN maidu_N)) (ConsNP (MassNP (UseN patwin_N)) (ConsNP (MassNP (UseN nez_perce_N)) (ConsNP (MassNP (UseN chinook_4_N)) (ConsNP (MassNP (UseN shasta_N)) (ConsNP (MassNP (UseN chinook_jargon_N)) (ConsNP (MassNP (UseN arapaho_N)) (ConsNP (MassNP (UseN koasati_N)) (ConsNP (MassNP (UseN hopi_N)) (ConsNP (MassNP (UseN mojave_N)) (ConsNP (MassNP (UseN arikara_N)) (ConsNP (MassNP (UseN atsugewi_N)) (ConsNP (MassNP (UseN kiowa_N)) (ConsNP (MassNP (UseN potawatomi_N)) (ConsNP (MassNP (UseN wichita_N)) (ConsNP (MassNP (UseN chiwere_N)) (ConsNP (MassNP (UseN pawnee_N)) (ConsNP (MassNP (UseN caddo_N)) (ConsNP (MassNP (UseN tuscarora_N)) (ConsNP (MassNP (UseN navajo_N)) (ConsNP (MassNP (UseN mattole_N)) (ConsNP (MassNP (UseN hupa_N)) (ConsNP (MassNP (UseN tlingit_N)) (ConsNP (MassNP (UseN aleut_N)) (ConsNP (MassNP (UseN cocopah_N)) (ConsNP (MassNP (UseN maricopa_N)) (ConsNP (MassNP (UseN mohawk_2_N)) (ConsNP (MassNP (UseN menominee_N)) (ConsNP (MassNP (UseN choctaw_N)) (ConsNP (MassNP (UseN cayuga_N)) (ConsNP (MassNP (UseN cheyenne_N)) (ConsNP (MassNP (UseN blackfoot_N)) (ConsNP (MassNP (UseN comanche_N)) (ConsNP (MassNP (UseN chickasaw_N)) (ConsNP (MassNP (UseN cherokee_N)) (ConsNP (MassNP (UseN filipino_2_N)) (ConsNP (MassNP (UseN yokuts_N)) (ConsNP (MassNP (UseN fox_7_N)) (BaseNP (MassNP (UseN tsimshian_N)) (MassNP (UseN kickapoo_N)))))))))))))))))))))))))))))))))))))))))))))))))))))))))))) (AdVVP also_AdV (PassVPSlash (SlashV2a speak_1_V2)))))))) NoVoc FullStop

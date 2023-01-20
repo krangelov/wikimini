@@ -1,5 +1,10 @@
 concrete MiniSwe of Mini = CatSwe ** open ParadigmsSwe, (I = IrregSwe), (C = CommonScand), (R = ResSwe), (MorphoSwe = MorphoSwe), (L = LexiconSwe), (E = ExtendSwe), (G = GrammarSwe), (M = MakeStructuralSwe), (X = ConstructX), Prelude in {
 
+-- added afterwards
+lin speak_1_V2 = mkV2 (mkV "tala") ;
+lin to_1_Prep = mkPrep "till" ;
+
+-- incluced in version 1
 lin abu_dhabi_PN = mkPN "Abu Dhabi" ;
 lin abuja_PN = mkPN "Abuja" ;
 lin accra_PN = mkPN "Accra" neutrum ;

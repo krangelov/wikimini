@@ -2,8 +2,9 @@ concrete WikiEng of Wiki =
   GrammarEng [
   Phr, Utt, Pol, ListNP, Adv, Comp, VPSlash, Tense, Card, Cl, Voc, AP,
   Num, S, Conj, Det, NP, Temp, Ant, Quant, Dig, CN, Digits, VP, PConj, Pron,
-  Prep, A, V2, N, PN,
+  Prep, A, V2, N, PN, ListS,
   PhrUtt,
+  PhrUttMark,
   NoPConj,
   UttS,
   UseCl,
@@ -22,11 +23,8 @@ concrete WikiEng of Wiki =
   AdvCN,
   AdjCN,
   PositA,
-  nordic_2_A,
   UseN,
-  country_2_N,
   PrepNP,
-  in_1_Prep,
   NumCard,
   NumDigits,
   IIDig,
@@ -51,7 +49,23 @@ concrete WikiEng of Wiki =
   and_Conj,
   ConsNP,
   AdvNP,
-  to_1_Prep,
-  DefArt
+  DefArt,
+  ConjS,
+  IDig,
+  BaseNP,
+  BaseS,
+  MassNP
   ],
-  MiniEng ;
+  ExtendEng [
+  N,
+  CompoundN
+  ],
+  MiniEng **
+open
+  Prelude in {
+lincat Mark = {s : Str} ;
+
+lin PhrUttMark pconj utt voc mark = {s = pconj.s ++ utt.s ++ voc.s ++ SOFT_BIND ++ mark.s} ;
+lin FullStop  = {s = "."} ;
+
+}
