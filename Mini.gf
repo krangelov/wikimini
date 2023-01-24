@@ -554,4 +554,239 @@ fun zagreb_PN : PN ;               -- 08836980-n	[geography] the capital of Croa
 fun zambia_PN : PN ;               -- 09188406-n	[geography] a republic in central Africa; formerly controlled by Great Britain and called Northern Rhodesia until it gained independence within the commonwealth in 1964
 fun zimbabwe_PN : PN ;             -- 09189894-n	[geography] a landlocked republic in south central Africa formerly called Rhodesia; achieved independence from the United Kingdom in 1980
 
+fun akan_N : N ;                   -- 07010146-n	[linguistics] a Kwa language spoken in Ghana and the Ivory Coast
+fun alabama_4_N : N ;              -- 06925024-n	[linguistics] the Muskhogean language of the Alabama
+fun aleut_N : N ;                  -- 06931088-n	[linguistics] the language spoken by the Aleut
+fun algonquin_N : N ;              -- 06919747-n	[linguistics] family of North American Indian languages spoken from Labrador to South Carolina and west to the Great Plains
+fun amharic_N : N ;                -- 07000472-n	[linguistics] the dominant and official language of Ethiopia; a Semitic language much influenced by the Cushitic language with which Amhara have been in close contact
+fun ancient_greek_N : N ;          -- 06990094-n	[linguistics] the Greek language prior to the Roman Empire
+fun arabic_N : N ;                 -- 07000717-n	[linguistics] the Semitic language of the Arabs; spoken in a variety of dialects
+fun arapaho_N : N ;                -- 06921067-n	[linguistics] the Algonquian language spoken by the Arapaho
+fun arawak_N : N ;                 -- 06930540-n	[linguistics] a family of South American Indian languages spoken in northeastern South America
+fun arikara_N : N ;                -- 06928597-n	[linguistics] the Caddoan language spoken by the Arikara
+fun assyrian_2_N : N ;             -- 07001344-n	[linguistics] the language of modern Iraq
+fun atsugewi_N : N ;               -- 06934630-n	[linguistics] the Shastan language spoken by the Atsugewi
+fun azerbaijani_N : N ;            -- 06939784-n	[linguistics] the Turkic language spoken by the Azerbaijani
+fun badaga_N : N ;                 -- 06992513-n	[linguistics] the dialect of Kannada that is spoken by the Badaga
+fun bade_N : N ;                   -- 06995885-n	[linguistics] a Chadic language spoken in northern Nigeria
+fun bahasa_N : N ;                 -- 06951975-n	[linguistics] the dialect of Malay used as the national language of the Republic of Indonesia or of Malaysia
+fun bai_N : N ;                    -- 06944382-n	[linguistics] the Tibeto-Burman language spoken in the Dali region of Yunnan
+fun balinese_N : N ;               -- 06952418-n	[linguistics] the Indonesian language of the people of Bali
+fun bata_N : N ;                   -- 06997216-n	[linguistics] a Chadic language spoken south of Lake Chad
+fun blackfoot_N : N ;              -- 06921270-n	[linguistics] any of the Algonquian languages spoken by the Blackfoot
+fun bole_3_N : N ;                 -- 06995515-n	[linguistics] a Chadic language spoken in northern Nigeria and closely related to Hausa
+fun bouyei_N : N ;                 -- 06949067-n	[linguistics] a branch of the Tai languages
+fun burmese_2_N : N ;              -- 06945212-n	[linguistics] the official language of Burma
+fun caddo_N : N ;                  -- 06928377-n	[linguistics] a family of North American Indian languages spoken widely in the Midwest by the Caddo
+fun cantonese_N : N ;              -- 06943204-n	[linguistics] the dialect of Chinese spoken in Canton and neighboring provinces and in Hong Kong and elsewhere outside China
+fun carib_N : N ;                  -- 06930702-n	[linguistics] the family of languages spoken by the Carib
+fun catawba_N : N ;                -- 06921381-n	[linguistics] the Siouan language spoken by the Catawba
+fun cayuga_N : N ;                 -- 06928993-n	[linguistics] the Iroquoian language spoken by the Cayuga
+fun cebuano_N : N ;                -- 06952871-n	[linguistics] language of the people of Cebu in the Philippines; its lexicon contributes to the official language of the Philippines
+fun chechen_N : N ;                -- 06991082-n	[linguistics] a northern Caucasian language spoken by the Chechen
+fun cherokee_N : N ;               -- 06928893-n	[linguistics] the Iroquoian language spoken by the Cherokee
+fun cheyenne_N : N ;               -- 06921476-n	[linguistics] the Algonquian language spoken by the Cheyenne
+fun chickasaw_N : N ;              -- 06925116-n	[linguistics] the Muskhogean language of the Chickasaw
+fun chimariko_N : N ;              -- 06933771-n	[linguistics] the Hokan language spoken by the Chimariko
+fun chinese_N : N ;                -- 06942519-n	[linguistics] any of the Sino-Tibetan languages spoken in China; regarded as dialects of a single language (even though they are mutually unintelligible) because they share an ideographic writing system
+fun chinook_4_N : N ;              -- 06937773-n	[linguistics] a Penutian language spoken by the Chinook
+fun chinook_jargon_N : N ;         -- 06918604-n	[linguistics] a pidgin incorporating Chinook and French and English words; formerly used as a lingua franca in northwestern North America
+fun chipewyan_N : N ;              -- 06932787-n	[linguistics] the language spoken by the Chipewyan
+fun chippewa_N : N ;               -- 06924142-n	[linguistics] the Algonquian language spoken by the Ojibwa
+fun chiwere_N : N ;                -- 06921577-n	[linguistics] the Siouan language spoken by the Iowa and Oto and Missouri
+fun choctaw_N : N ;                -- 06925212-n	[linguistics] the Muskhogean language of the Choctaw
+fun chukchi_N : N ;                -- 06941011-n	[linguistics] an indigenous and isolated language of unknown origin spoken by the Chukchi that is pronounced differently by men and women
+fun chuvash_N : N ;                -- 06940729-n	[linguistics] the Turkic language spoken by the Chuvash
+fun cocopah_N : N ;                -- 06935356-n	[linguistics] the Yuman language spoken by the Cocopa
+fun comanche_N : N ;               -- 06927706-n	[linguistics] the Shoshonean language spoken by the Comanche
+fun coptic_N : N ;                 -- 07003031-n	[linguistics] the liturgical language of the Coptic Church used in Egypt and Ethiopia; written in the Greek alphabet
+fun cree_N : N ;                   -- 06922074-n	[linguistics] the Algonquian language spoken by the Cree
+fun crow_6_N : N ;                 -- 06922167-n	[linguistics] a Siouan language spoken by the Crow
+fun dakota_3_N : N ;               -- 06922254-n	[linguistics] the Siouan language spoken by the Dakota
+fun dinka_N : N ;                  -- 07010982-n	[linguistics] a Nilotic language
+fun dutchFem_1_N : N ;             -- 09719159-n	[politics] the people of the Netherlands; "the Dutch are famous for their tulips"
+fun dutchMasc_1_N : N ;            -- 09719159-n	[politics] the people of the Netherlands; "the Dutch are famous for their tulips"
+fun dyirbal_N : N ;                -- 06953264-n	[linguistics] a language of Australian aborigines
+fun egyptian_A : A ;               -- 02983014-a	[administration, geography] of or relating to or characteristic of Egypt or its people or their language
+fun enets_N : N ;                  -- 06972672-n	[linguistics] the Uralic language spoken by the Yeniseian
+fun esperanto_N : N ;              -- 06908812-n	[linguistics] an artificial language based as far as possible on words common to all the European languages
+fun esselen_N : N ;                -- 06933869-n	[linguistics] the Hokan language spoken by the Esselen
+fun estonian_N : N ;               -- 06970636-n	[linguistics] the official language of Estonia; belongs to the Baltic-Finnic family of languages
+fun evenki_N : N ;                 -- 06941387-n	[linguistics] the Tungusic language of the Evenki in eastern Siberia
+fun ewe_2_N : N ;                  -- 07010247-n	[linguistics] a Kwa language spoken by the Ewe in Ghana and Togo and Benin
+fun fang_1_N : N ;                 -- 07005589-n	[linguistics] a Bantu language spoken in Cameroon
+fun fijian_2_N : N ;               -- 06951400-n	[linguistics] the Oceanic language spoken on Fiji
+fun filipino_2_N : N ;             -- 06952518-n	[linguistics] official language of the Philippines; based on Tagalog; draws its lexicon from other Philippine languages
+fun fox_7_N : N ;                  -- 06922624-n	[linguistics] the Algonquian language of the Fox
+fun fula_N : N ;                   -- 07009170-n	[linguistics] a family of languages of the Fulani of West Africa and used as a lingua franca in the sub-Saharan regions from Senegal to Chad; the best known of the West African languages
+fun georgian_3_N : N ;             -- 06991426-n	[linguistics] a southern Caucasian language with 3 million speakers and a long literary tradition
+fun gidar_N : N ;                  -- 06997518-n	[linguistics] a Chadic language spoken south of Lake Chad
+fun gikuyu_N : N ;                 -- 07005675-n	[linguistics] a Bantu language spoken in western Kenya
+fun gondi_N : N ;                  -- 06993631-n	[linguistics] a Dravidian language spoken by the Gond in south central India
+fun guarani_3_N : N ;              -- 06930056-n	[linguistics] the language spoken by the Guarani of Paraguay and Bolivia
+fun hakka_N : N ;                  -- 06943581-n	[linguistics] a dialect of Chinese spoken in southeastern China by the Hakka
+fun hani_N : N ;                   -- 06945580-n	[linguistics] a Loloish language
+fun hausa_N : N ;                  -- 06995357-n	[linguistics] the chief member of the Chadic family of Afroasiatic languages; widely used as a trading language
+fun hawaiian_N : N ;               -- 06951270-n	[linguistics] the Oceanic languages spoken on Hawaii
+fun hebrew_N : N ;                 -- 06999784-n	[linguistics] the ancient Canaanitic language of the Hebrews that has been revived as the official language of Israel
+fun herero_N : N ;                 -- 07005885-n	[linguistics] a Banto language spoken by the Herero in Namibia, Botswana, and Angola
+fun hidatsa_N : N ;                -- 06922708-n	[linguistics] a Siouan language spoken by the Hidatsa
+fun hopi_N : N ;                   -- 06927807-n	[linguistics] the Shoshonean language spoken by the Hopi
+fun hungarian_2_N : N ;            -- 06971576-n	[linguistics] the official language of Hungary (also spoken in Rumania); belongs to the Ugric family of languages
+fun hupa_N : N ;                   -- 06932595-n	[linguistics] the Athapaskan language spoken by the Hupa
+fun indonesian_2_N : N ;           -- 06951975-n	[linguistics] the dialect of Malay used as the national language of the Republic of Indonesia or of Malaysia
+fun ingrian_N : N ;                -- 06971262-n	[linguistics] a Finnic language spoken by the Ingrian
+fun irula_N : N ;                  -- 06992152-n	[linguistics] a Dravidian language closely related to Tamil that is spoken in a hilly section of southwestern India
+fun japanese_N : N ;               -- 06942056-n	[linguistics] the language (usually considered to be Altaic) spoken by the Japanese
+fun javanese_2_N : N ;             -- 06952208-n	[linguistics] the Indonesian language spoken on Java
+fun kadai_N : N ;                  -- 06946909-n	[linguistics] a family of Sino-Tibetan languages spoken in southeastern Asia
+fun kamba_N : N ;                  -- 07006008-n	[linguistics] a Bantu language spoken by the Kamba in Kenya
+fun kannada_N : N ;                -- 06992617-n	[linguistics] a Dravidian language spoken in southern India
+fun kansas_4_N : N ;               -- 06923099-n	[linguistics] the Dhegiha dialect spoken by the Kansa
+fun karakalpak_N : N ;             -- 06940628-n	[linguistics] the Turkic language spoken by the Karakalpak
+fun karelian_N : N ;               -- 06970803-n	[linguistics] a Finnic language spoken by the people of Karelia
+fun kazakh_N : N ;                 -- 06939905-n	[linguistics] the Turkic language spoken by the Kazak
+fun kera_N : N ;                   -- 06998150-n	[linguistics] a Chadic language spoken in Chad
+fun khamti_N : N ;                 -- 06948518-n	[linguistics] a branch of the Tai languages
+fun khanty_N : N ;                 -- 06971758-n	[linguistics] a Ugric language (related to Hungarian) spoken by the Ostyak
+fun khmer_1_N : N ;                -- 06950125-n	[linguistics] the Mon-Khmer language spoken in Cambodia
+fun khuen_N : N ;                  -- 06948290-n	[linguistics] a branch of the Tai languages
+fun kickapoo_N : N ;               -- 06923199-n	[linguistics] the Algonquian language of the Kickapoo
+fun kiliwa_N : N ;                 -- 06935742-n	[linguistics] the Yuman language spoken by the Kiliwa
+fun kinyarwanda_N : N ;            -- 07006233-n	[linguistics] a Bantu language
+fun kiowa_N : N ;                  -- 06933442-n	[linguistics] the Tanoan language spoken by the Kiowa
+fun koasati_N : N ;                -- 06925414-n	[linguistics] the Muskhogean language spoken by the Koasati
+fun kola_2_N : N ;                 -- 06997106-n	[linguistics] a Chadic language spoken south of Lake Chad
+fun kolami_N : N ;                 -- 06994366-n	[linguistics] the Dravidian language spoken by the Kolam in central India
+fun komi_N : N ;                   -- 06969782-n	[linguistics] the Finnic language spoken by the Komi
+fun kongo_N : N ;                  -- 07006379-n	[linguistics] the Bantu language spoken by the Kongo living in the tropical forests of Zaire and Congo and Angola
+fun korean_2_N : N ;               -- 06941948-n	[linguistics] the Altaic language spoken by Koreans
+fun kota_N : N ;                   -- 06992305-n	[linguistics] a Dravidian language spoken by the Kota
+fun kui_N : N ;                    -- 06993949-n	[linguistics] the Dravidian language spoken by the Kui in southeastern India
+fun kuvi_N : N ;                   -- 06994061-n	[linguistics] a Dravidian language spoken in southeast India
+fun lahu_N : N ;                   -- 06945656-n	[linguistics] a Loloish language
+fun lao_2_N : N ;                  -- 06948371-n	[linguistics] the Tai language of a Buddhist people living in the area of the Mekong River in Thailand and Laos
+fun lisu_N : N ;                   -- 06945511-n	[linguistics] a Loloish language
+fun livonian_N : N ;               -- 06970508-n	[linguistics] the Finnic language spoken by the people of Livonia in Estonia and Latvia
+fun lolo_N : N ;                   -- 06945725-n	[linguistics] a Loloish language
+fun luo_N : N ;                    -- 07011052-n	[linguistics] a Nilotic language
+fun mafa_N : N ;                   -- 06996907-n	[linguistics] a Chadic language spoken south of Lake Chad
+fun magyar_N : N ;                 -- 06971576-n	[linguistics] the official language of Hungary (also spoken in Rumania); belongs to the Ugric family of languages
+fun maidu_N : N ;                  -- 06937672-n	[linguistics] a Penutian language spoken by the Maidu
+fun malay_2_N : N ;                -- 06951664-n	[linguistics] a western subfamily of Western Malayo-Polynesian languages
+fun malayalam_N : N ;              -- 06992835-n	[linguistics] a Dravidian language (closely related to Tamil) that is spoken in southwestern India
+fun malaysian_2_N : N ;            -- 06951828-n	[linguistics] the Malay language spoken in Malaysia
+fun maltese_2_N : N ;              -- 07001573-n	the national language of the Republic of Malta; a Semitic language derived from Arabic but with many loan words from Italian, Spanish, and Norman-French
+fun mam_N : N ;                    -- 06938610-n	[linguistics] a Mayan language spoken by the Mam
+fun manchu_N : N ;                 -- 06941521-n	[linguistics] the Tungusic language spoken by the Manchu
+fun manda_N : N ;                  -- 06993847-n	[linguistics] a Dravidian language spoken in south central India
+fun mandara_N : N ;                -- 06996761-n	[linguistics] a Chadic language spoken in the Mandara mountains in Cameroon; has only two vowels
+fun mandarin_6_N : N ;             -- 06942870-n	[linguistics] the dialect of Chinese spoken in Beijing and adopted as the official language for all of China
+fun mansi_N : N ;                  -- 06971880-n	[linguistics] the Ugric language (related to Hungarian) spoken by the Vogul
+fun maori_2_N : N ;                -- 06951163-n	[linguistics] the Oceanic language spoken by the Maori in New Zealand
+fun mari_N : N ;                   -- 06970027-n	[linguistics] the Finnic language spoken by the Cheremis
+fun maricopa_N : N ;               -- 06935843-n	[linguistics] the Yuman language spoken by the Maricopa and the Halchidhoma
+fun mashi_N : N ;                  -- 07006817-n	[linguistics] a Bantu language
+fun mattole_N : N ;                -- 06932688-n	[linguistics] the Athapaskan language spoken by the Mattole
+fun medieval_greek_N : N ;         -- 06989850-n	[linguistics] the Greek language from about 600 to 1200 AD
+fun medieval_latin_N : N ;         -- 06976446-n	[linguistics] Latin used for liturgical purposes during the Middle Ages
+fun menominee_N : N ;              -- 06923531-n	[linguistics] the Algonquian language spoken by the Menomini
+fun middle_high_german_N : N ;     -- 06963735-n	[linguistics] High German from 1100 to 1500
+fun min_2_N : N ;                  -- 06943410-n	[linguistics] any of the forms of Chinese spoken in Fukien province
+fun mohawk_2_N : N ;               -- 06929089-n	[linguistics] the Iroquoian language spoken by the Mohawk
+fun mojave_N : N ;                 -- 06935959-n	[linguistics] the Yuman language spoken by the Mohave
+fun mon_3_N : N ;                  -- 06950218-n	[linguistics] the Mon-Khmer language spoken by the Mon
+fun mongolian_2_N : N ;            -- 06941616-n	[linguistics] a family of Altaic language spoken in Mongolia
+fun munda_N : N ;                  -- 06949600-n	[linguistics] a family of languages spoken by people scattered throughout central India
+fun musgu_N : N ;                  -- 06997406-n	[linguistics] a Chadic language spoken south of Lake Chad
+fun mwera_N : N ;                  -- 07006885-n	[linguistics] a Bantu language spoken in southern coastal Tanzania
+fun nahuatl_N : N ;                -- 06931608-n	[linguistics] the Uto-Aztecan language spoken by the Nahuatl
+fun naiki_N : N ;                  -- 06994478-n	[linguistics] a Dravidian language spoken in south central India
+fun nancere_N : N ;                -- 06998064-n	[linguistics] a Chadic language spoken in Chad
+fun nanticoke_N : N ;              -- 06923843-n	[linguistics] the Algonquian language spoken by the Nanticoke and Conoy
+fun navajo_N : N ;                 -- 06932489-n	[linguistics] the Athapaskan language spoken by the Navaho
+fun ndebele_N : N ;                -- 07007148-n	[linguistics] a Bantu language sometimes considered a dialect of Zulu
+fun nenets_N : N ;                 -- 06972528-n	[linguistics] a Uralic language spoken by a Samoyed of northern Siberia
+fun new_latin_N : N ;              -- 06976564-n	[linguistics] Latin since the Renaissance; used for scientific nomenclature
+fun nez_perce_N : N ;              -- 06938212-n	[linguistics] the Shahaptian language spoken by the Nez Perce
+fun nganasan_N : N ;               -- 06972823-n	[linguistics] the Uralic language spoken by the Nganasan
+fun nung_N : N ;                   -- 06948767-n	[linguistics] a branch of the Tai languages
+fun nyamwezi_N : N ;               -- 07007578-n	[linguistics] a Bantu language spoken in central Tanzania
+fun old_high_german_N : N ;        -- 06963648-n	[linguistics] High German prior to 1200
+fun ollari_N : N ;                 -- 06994682-n	[linguistics] a Dravidian language spoken in south central India
+fun oneida_N : N ;                 -- 06929281-n	[linguistics] the Iroquoian language spoken by the Oneida
+fun onondaga_N : N ;               -- 06929377-n	[linguistics] the Iroquoian language spoken by the Onondaga
+fun osage_N : N ;                  -- 06924351-n	[linguistics] the Dhegiha dialect spoken by the Osage
+fun patwin_N : N ;                 -- 06937153-n	[linguistics] a Copehan language spoken by the Patwin
+fun pawnee_N : N ;                 -- 06928703-n	[linguistics] the Caddoan language spoken by the Pawnee
+fun pengo_2_N : N ;                -- 06993745-n	[linguistics] a Dravidian language spoken in south central India
+fun philippine_N : N ;             -- 06952518-n	[linguistics] official language of the Philippines; based on Tagalog; draws its lexicon from other Philippine languages
+fun phoenician_N : N ;             -- 07002133-n	[linguistics] the extinct language of an ancient Semitic people who dominated trade in the ancient world
+fun pokomo_N : N ;                 -- 07007676-n	[linguistics] a Bantu language spoken in the Kenyan coastal areas of East Africa
+fun potawatomi_N : N ;             -- 06924633-n	[linguistics] the Algonquian language spoken by the Potawatomi
+fun powhatan_N : N ;               -- 06924738-n	[linguistics] the Algonquian language of the Powhatan
+fun prussian_N : N ;               -- 09767979-n	[geography] a German inhabitant of Prussia
+fun quapaw_N : N ;                 -- 06924832-n	[linguistics] the Dhegiha dialect spoken by the Quapaw
+fun quechua_N : N ;                -- 06929859-n	[linguistics] the language of the Quechua which was spoken by the Incas
+fun ron_N : N ;                    -- 06995774-n	[linguistics] a Chadic language spoken in northern Nigeria
+fun saek_N : N ;                   -- 06949317-n	[linguistics] a branch of the Tai languages
+fun sango_N : N ;                  -- 06918804-n	[linguistics] a trade language widely used in Chad
+fun sassenach_N : N ;              -- 10571821-n	[geography] the Scots' term for an English person
+fun selkup_N : N ;                 -- 06972920-n	[linguistics] the Uralic language spoken by the Ostyak-Samoyed
+fun serbian_A : A ;                -- 02975487-a	[geography] of or relating to the people or language or culture of the region of Serbia
+fun serer_N : N ;                  -- 07009415-n	[linguistics] a West African language closely related to Fula; spoken primarily in Senegal and Gambia
+fun setswana_N : N ;               -- 07008324-n	[linguistics] the dialect of Sotho spoken by the Tswana in Botswana
+fun shasta_N : N ;                 -- 06934728-n	[linguistics] the Shastan language spoken by the Shasta
+fun shawnee_N : N ;                -- 06924925-n	[linguistics] the Algonquian language spoken by the Shawnee
+fun shona_N : N ;                  -- 07007795-n	[linguistics] a Bantu language spoken in Zimbabwe
+fun siamese_1_N : N ;              -- 06948926-n	[linguistics] a branch of the Tai languages
+fun skagit_N : N ;                 -- 06927107-n	[linguistics] a Salishan dialect spoken by the Skagit
+fun slovenian_N : N ;              -- 09769084-n	[geography] a native or inhabitant of Slovenia
+fun sokoro_N : N ;                 -- 06998467-n	[linguistics] a Chadic language spoken in Chad
+fun somali_N : N ;                 -- 07003664-n	[linguistics] the Cushitic language spoken by the Somali
+fun somrai_N : N ;                 -- 06997970-n	[linguistics] a Chadic language spoken in Chad
+fun sotho_2_N : N ;                -- 07007882-n	[linguistics] any of the mutually intelligible southern Bantu languages of the Sotho in Botswana and South Africa and Lesotho
+fun sukur_N : N ;                  -- 06997011-n	[linguistics] a Chadic language spoken south of Lake Chad
+fun sundanese_N : N ;              -- 06952319-n	[linguistics] the Indonesian language spoken on West Java
+fun swahili_N : N ;                -- 07008452-n	[linguistics] the most widely spoken Bantu languages; the official language of Kenya and Tanzania and widely used as a lingua franca in east and central Africa
+fun swazi_2_N : N ;                -- 07007268-n	[linguistics] a Bantu language closely related to Zulu
+fun tahitian_2_N : N ;             -- 06951071-n	[linguistics] the Oceanic language spoken on Tahiti
+fun tai_N : N ;                    -- 06947166-n	[linguistics] the most widespread and best known of the Kadai family of languages
+fun tai_dam_N : N ;                -- 06947793-n	[linguistics] a branch of the Tai languages
+fun tai_long_N : N ;               -- 06948000-n	[linguistics] a branch of the Tai languages
+fun taiwanese_N : N ;              -- 06943410-n	[linguistics] any of the forms of Chinese spoken in Fukien province
+fun tamil_2_N : N ;                -- 06992975-n	[linguistics] the Dravidian language spoken since prehistoric times by the Tamil in southern India and Sri Lanka
+fun tatar_N : N ;                  -- 06940005-n	[linguistics] the Turkic language spoken by the Tatar living from the Volga to the Ural Mountains
+fun telugu_N : N ;                 -- 06993381-n	[linguistics] a Dravidian language spoken by the Telugu in southeastern India
+fun tera_N : N ;                   -- 06996455-n	[linguistics] a three-tone Chadic language
+fun thai_N : N ;                   -- 06948926-n	[linguistics] a branch of the Tai languages
+fun tho_N : N ;                    -- 06948847-n	[linguistics] a branch of the Tai languages
+fun tibetan_1_N : N ;              -- 06946708-n	[linguistics] Himalayish language spoken in Tibet
+fun tlingit_N : N ;                -- 06925801-n	[linguistics] the Na-Dene language spoken by the Tlingit
+fun toda_N : N ;                   -- 06992403-n	[linguistics] the Dravidian language spoken by the Toda in southern India
+fun tonga_N : N ;                  -- 07008689-n	[linguistics] the language of the Tongan people of south central Africa (Zambia and Rhodesia)
+fun tsimshian_N : N ;              -- 06938421-n	[linguistics] a Penutian language spoken by the Tsimshian
+fun tswana_2_N : N ;               -- 07008324-n	[linguistics] the dialect of Sotho spoken by the Tswana in Botswana
+fun tulu_N : N ;                   -- 06992745-n	[linguistics] a Dravidian language spoken by the Tulu
+fun turkish_N : N ;                -- 06939575-n	[linguistics] a Turkic language spoken by the Turks
+fun turkmen_N : N ;                -- 06939666-n	[linguistics] the Turkic language spoken by the Turkoman
+fun tuscarora_N : N ;              -- 06929477-n	[linguistics] the Iroquoian language spoken by the Tuscarora
+fun udmurt_N : N ;                 -- 06969534-n	[linguistics] the Finnic language spoken by the Votyak
+fun umbundu_N : N ;                -- 07008099-n	[linguistics] a Bantu language spoken in Angola
+fun uzbek_N : N ;                  -- 06940140-n	[linguistics] the Turkic language spoken by the Uzbek
+fun veps_N : N ;                   -- 06971157-n	[linguistics] a Finnic language spoken by the Veps
+fun vernacular_2_N : N ;           -- 07171831-n	[linguistics] the everyday speech of the people (as distinguished from literary language)
+fun vietnamese_2_N : N ;           -- 06950006-n	[linguistics] the Mon-Khmer language spoken in Vietnam
+fun warji_N : N ;                  -- 06995980-n	[linguistics] a Chadic language spoken in northern Nigeria
+fun warlpiri_N : N ;               -- 06953363-n	[linguistics] a language of Australian aborigines
+fun wichita_N : N ;                -- 06928797-n	[linguistics] the Caddoan language spoken by the Wichita
+fun winnebago_N : N ;              -- 06925990-n	[linguistics] the Siouan language spoken by the Winnebago
+fun wolof_N : N ;                  -- 07009554-n	[linguistics] the West African language of the Wolof in Senegal; related to Fula
+fun xhosa_N : N ;                  -- 07007360-n	[linguistics] a Bantu language closely related to Zulu
+fun yokuts_N : N ;                 -- 06937436-n	[linguistics] a Penutian language spoken by the Yokuts in the San Joaquin Valley
+fun yoruba_N : N ;                 -- 07010028-n	[linguistics] a Kwa language spoken by the Yoruba in southwestern Nigeria
+fun zapotec_N : N ;                -- 06931898-n	[linguistics] the language of the Zapotec
+fun zhuang_N : N ;                 -- 06949156-n	[linguistics] a branch of the Tai languages
+fun zulu_N : N ;                   -- 07007452-n	[linguistics] a Bantu language of considerable literary importance in southeastern Africa
+
 }
