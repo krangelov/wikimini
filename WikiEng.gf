@@ -2,7 +2,7 @@ concrete WikiEng of Wiki =
   GrammarEng [
   Phr, Utt, Pol, ListNP, Adv, Comp, VPSlash, Tense, Card, Cl, Voc, AP,
   Num, S, Conj, Det, NP, Temp, Ant, Quant, Dig, CN, Digits, VP, PConj, Pron,
-  Prep, A, V2, N, PN, ListS,
+  Prep, A, V2, N, PN, ListS, AdV,
   PhrUtt,
   PhrUttMark,
   NoPConj,
@@ -54,7 +54,8 @@ concrete WikiEng of Wiki =
   IDig,
   BaseNP,
   BaseS,
-  MassNP
+  MassNP,
+  AdVVP
   ],
   ExtendEng [
   N,
