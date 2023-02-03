@@ -769,4 +769,6 @@ lin yoruba_N = mkN "limba yoruba" ;
 lin zapotec_N = variants {} ;
 lin zhuang_N = variants {} ;
 lin zulu_N = mkN "limba zulu" ;
+lin speak_3_V2 = dirV2 (mkV "vorbi") ;
+
 }

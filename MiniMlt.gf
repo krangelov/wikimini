@@ -769,4 +769,5 @@ lin yoruba_N = mkN "Joruba" ;
 lin zapotec_N = variants {} ;
 lin zhuang_N = variants {} ;
 lin zulu_N = mkN "Żulu" ;
+lin speak_3_V2 = dirV2 (mkV "tkellem") ; --guessed
 }

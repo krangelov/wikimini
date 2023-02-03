@@ -769,4 +769,6 @@ lin yoruba_N = variants {} ;
 lin zapotec_N = variants {} ;
 lin zhuang_N = mkN "ภาษาจ้วง" ;
 lin zulu_N = mkN "ภาษาซูลู" ;
+lin speak_3_V2 = mkV2 (mkV "พูด") ; --unchecked
+
 }

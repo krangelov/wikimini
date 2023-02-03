@@ -772,4 +772,6 @@ lin yoruba_N = mkN "Yoruba" ;
 lin zapotec_N = mkN "Zapotekisch" ;
 lin zhuang_N = mkN "Zhuang" ;
 lin zulu_N = mkN "isiZulu" ;
+lin speak_3_V2 = mkV2 (irregV "sprechen" "spricht" "sprach" "spräche" "gesprochen") ;
+
 }

@@ -769,4 +769,6 @@ lin yoruba_N = variants {} ;
 lin zapotec_N = variants {} ;
 lin zhuang_N = variants {} ;
 lin zulu_N = variants {} ;
+lin speak_3_V2 = dirV2 (mkMonoVerb "mówić" conj72 Imperfective) ; --guessed
+
 }

@@ -769,4 +769,6 @@ lin yoruba_N = mkN "요루바어" ;
 lin zapotec_N = variants {} ;
 lin zhuang_N = mkN "좡어" ;
 lin zulu_N = mkN "줄루어" ;
+lin speak_3_V2 = mkV2 (mkV "말하다") ; --guessed
+
 }

@@ -769,4 +769,6 @@ lin yoruba_N = mkN "Língua iorubá" ;
 lin zapotec_N = mkN "línguas zapotecas" ;
 lin zhuang_N = mkN "Língua zhuang" ;
 lin zulu_N = mkN "língua zulu" ;
+lin speak_3_V2 = mkV2 (mkV (comprar_Besch "falar")) ;
+
 }

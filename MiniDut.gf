@@ -769,4 +769,6 @@ lin yoruba_N = mkN "Yoruba" ;
 lin zapotec_N = mkN "Zapoteeks" ;
 lin zhuang_N = mkN "Zhuang" ;
 lin zulu_N = mkN "Zoeloe" ;
+lin speak_3_V2 = mkV2 I.spreken_V ;
+
 }

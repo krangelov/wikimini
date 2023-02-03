@@ -1,7 +1,7 @@
 concrete MiniFin of Mini = CatFin ** open ParadigmsFin, (S=StructuralFin), Kotus, (X = ConstructX), Prelude in {
 
 -- added afterwards, because needed in trees
-lin speak_1_V2 = mkV2 (mkV "puhua") partitive ;
+lin speak_3_V2 = mkV2 (mkV "puhua") partitive ;
 lin to_1_Prep = mkPrep illative ;
 
 -- included in version 1

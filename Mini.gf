@@ -1,7 +1,7 @@
 abstract Mini = Cat ** {
 
 -- added afterwards, because found in trees
-fun speak_1_V2 : V2 ;
+fun speak_3_V2 : V2 ;              -- 00965602-v	use language; "they speak a strange dialect"
 fun to_1_Prep : Prep ;
 fun north_3_N : N ;
 fun north_america_1_PN : PN ;

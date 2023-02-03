@@ -1,7 +1,6 @@
 concrete MiniSwe of Mini = CatSwe ** open ParadigmsSwe, (I = IrregSwe), (C = CommonScand), (R = ResSwe), (MorphoSwe = MorphoSwe), (L = LexiconSwe), (E = ExtendSwe), (G = GrammarSwe), (M = MakeStructuralSwe), (X = ConstructX), Prelude in {
 
 -- added afterwards
-lin speak_1_V2 = mkV2 (mkV "tala") ;
 lin to_1_Prep = mkPrep "till" ;
 
 -- incluced in version 1
@@ -775,4 +774,6 @@ lin yoruba_N = mkN "yoruba" ;
 lin zapotec_N = mkN "Zapotekiska" ;
 lin zhuang_N = mkN "zhuang" ;
 lin zulu_N = mkN "zulu" ;
+lin speak_3_V2 = mkV2 (mkV "tala") ;
+
 }

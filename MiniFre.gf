@@ -771,4 +771,6 @@ lin yoruba_N = mkN "yoruba" ;
 lin zapotec_N = mkN "langues zapotèques" ;
 lin zhuang_N = mkN "zhuang" ;
 lin zulu_N = mkN "zoulou" ;
+lin speak_3_V2 = mkV2 (mkV "parler") ;
+
 }

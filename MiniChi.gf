@@ -769,4 +769,6 @@ lin yoruba_N = mkN "約魯巴語" ;
 lin zapotec_N = mkN "萨波特克语" ;
 lin zhuang_N = mkN "壮语" ;
 lin zulu_N = mkN "祖鲁语" ;
+lin speak_3_V2 = mkV2 (mkV "讲话") ; --unchecked
+
 }

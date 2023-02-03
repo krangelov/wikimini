@@ -769,4 +769,6 @@ lin yoruba_N = mkN041 "йоруба" ;
 lin zapotec_N = variants {} ;
 lin zhuang_N = variants {} ;
 lin zulu_N = substantiveN (mkA078 "зулуски") (AMasc Human) ;
+lin speak_3_V2 = dirV2 (singleV (mkV173 "говоря")) ;
+
 }

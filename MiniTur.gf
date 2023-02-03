@@ -769,4 +769,6 @@ lin yoruba_N = mkN "Yorubaca" ;
 lin zapotec_N = variants {} ;
 lin zhuang_N = mkN "Zhuangca" ;
 lin zulu_N = mkN "Zuluca" ;
+lin speak_3_V2 = mkV2 (mkV "konuşmak") ;
+
 }

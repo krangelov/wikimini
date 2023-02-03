@@ -1,7 +1,7 @@
 concrete MiniEng of Mini = CatEng ** open MorphoEng, ResEng, ParadigmsEng, IrregEng, ExtraEng, (G = GrammarEng), (C = ConstructX), Prelude in {
 
 -- added afterwards
-lin speak_1_V2 = mkV2 speak_V ;
+lin speak_3_V2 = mkV2 speak_V ;
 lin to_1_Prep = mkPrep "to" ;
 
 -- incluced in version 1
