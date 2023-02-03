@@ -2,7 +2,7 @@ abstract Wiki =
   Grammar [
   Phr, Utt, Pol, ListNP, Adv, Comp, VPSlash, Tense, Card, Cl, Voc, AP,
   Num, S, Conj, Det, NP, Temp, Ant, Quant, Dig, CN, Digits, VP, PConj, Pron,
-  Prep, A, V2, N, PN, ListS, 
+  Prep, A, V2, N, PN, ListS, AdV,
   PhrUtt,
   NoPConj,
   UttS,
@@ -53,11 +53,13 @@ abstract Wiki =
   IDig,
   BaseS,
   BaseNP,
-  MassNP
+  MassNP,
+  AdVVP
   ],
   Extend [
   N,
-  CompoundN
+  CompoundN,
+  PassVPSlash
   ],
   Mini
   ** {

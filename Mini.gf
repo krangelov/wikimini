@@ -8,14 +8,15 @@ fun north_america_1_PN : PN ;
 fun but_1_Conj : Conj ;
 fun south_3_N : N ;
 fun square_1_N : N ;
-fun hawaiian_N : N ;
-fun skagit_N : N ;
-fun esselen_N : N ;
-fun chimariko_N : N ;
-fun alabama_4_N : N ;
-fun crow_6_N : N ;
+fun island_1_N : N ;
+fun east_4_N : N ;
+fun delaware_5_N : N ;
+fun state_3_N : N ;
+fun also_AdV : AdV ;
+fun west_2_N : N ;
 fun seneca_N : N ;
-fun powhatan_N : N ;
+fun asia_2_PN : PN ;
+
 
 -- incluced in version 1
 fun abu_dhabi_PN : PN ;            -- 09067011-n	[geography] a sheikhdom of eastern Arabia and capital of the United Arab Emirates
