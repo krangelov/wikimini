@@ -17,6 +17,20 @@ fun west_2_N : N ;
 fun seneca_N : N ;
 fun asia_2_PN : PN ;
 
+-- added 7/2/2023 for the new data
+fun haida_N : N ;
+fun northwest_2_N : N ;
+fun on_1_Prep : Prep ;
+fun on_1_Prep : Prep ;
+fun south_west_N : N ;
+fun south_east_N : N ;
+fun spoken_A : A ;
+fun saint_pierre_and_miquelon_2_PN : PN ;
+fun north_east_N : N ;
+fun balkans_2_PN : PN ;
+fun greenland_PN : PN ;
+fun adriatic_sea_PN : PN ;
+fun middle_east_9_PN : PN ;
 
 -- incluced in version 1
 fun abu_dhabi_PN : PN ;            -- 09067011-n	[geography] a sheikhdom of eastern Arabia and capital of the United Arab Emirates
