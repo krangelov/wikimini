@@ -1,6 +1,7 @@
 import pgf
 
-TREE_FILE = 'new_trees.txt'
+TREE_FILE = 'all_trees.txt'
+#TREE_FILE = 'new_trees.txt'  # to extract all functions in the remaining trees, with no ignore
 STOP_FILE = 'ignored_funs.txt'
 
 # to include all functions

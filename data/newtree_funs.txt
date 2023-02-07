@@ -57,12 +57,10 @@ algeria_PN
 algonquin_N
 also_AdV
 and_Conj
-arabic_A
 area_6_N
 asia_2_PN
 austria_PN
 balkans_2_PN
-baltic_2_A
 belgium_PN
 blackfoot_N
 border_1_N
@@ -70,8 +68,6 @@ but_1_Conj
 canada_PN
 capital_3_N
 cayuga_N
-central_african_A
-central_african_republic_PN
 chipewyan_N
 coat_of_arms_N
 country_2_N
@@ -90,7 +86,6 @@ flag_1_N
 france_1_PN
 french_N
 germany_PN
-ghana_PN
 great_britain_1_PN
 greece_1_PN
 greenland_PN
@@ -116,7 +111,6 @@ middle_east_9_PN
 mohawk_2_N
 nordic_2_A
 north_3_N
-north_africa_PN
 north_america_1_PN
 north_east_N
 northwest_2_N
@@ -154,5 +148,4 @@ united_states_PN
 vatican_city_PN
 venezuela_PN
 west_2_N
-west_african_A
 with_Prep

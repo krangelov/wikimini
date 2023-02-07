@@ -821,3 +821,8 @@ zenaga_2_PN
 haida_N
 seneca_N
 delaware_5_N
+arabic_A
+baltic_2_A
+central_african_A
+west_african_A
+

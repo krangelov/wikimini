@@ -53,12 +53,9 @@ UsePron
 UttS
 also_AdV
 and_Conj
-arabic_A
 area_6_N
-baltic_2_A
 but_1_Conj
 capital_3_N
-central_african_A
 coat_of_arms_N
 east_4_N
 flag_1_N
@@ -84,5 +81,4 @@ square_1_A
 state_3_N
 to_1_Prep
 west_2_N
-west_african_A
 with_Prep
