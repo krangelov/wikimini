@@ -12,8 +12,7 @@ If you prefer to edit the grammars locally on your computer then you can use the
 
 Known Issues:
 
-1. Due to a bug in the compiler, currently the articles in Afrikans and Bulgarian do not work correctly.
-2. The article always use the pronoun "it" for country but this will change later.
+1. The article always use the pronoun "it" for country but this will change later.
 
 
 Krasimir
