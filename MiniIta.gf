@@ -1,4 +1,4 @@
-concrete MiniIta of Mini = CatIta ** open ConstructionIta, GrammarIta, (E=ExtendIta), ParadigmsIta, (S=StructuralIta), Prelude in {
+concrete MiniIta of Mini = CatIta ** open ConstructionIta, GrammarIta, (E=ExtendIta), ParadigmsIta, (S=StructuralIta), Prelude, ParamX in {
 
 lin abu_dhabi_PN = mkPN "Abu Dhabi" ;
 lin abuja_PN = mkPN "Abuja" ;
@@ -774,7 +774,7 @@ lin speak_3_V2 = mkV2 (mkV "parlare") ;
 
 lin spoken_A = mkA "parlato" ;
 lin also_AdV = mkAdv "inoltre" ;
--- lin but_1_Conj = ??? ;
+lin but_1_Conj = {s1 = [] ; s2 = "ma" ; n = Sg} ;
 lin north_3_N = mkN "nord" ;
 lin south_3_N = mkN "sud" ;
 lin east_4_N = mkN "est" ;
