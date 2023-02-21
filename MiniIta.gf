@@ -772,4 +772,31 @@ lin zhuang_N = mkN "zhuang" ;
 lin zulu_N = mkN "zulu" ;
 lin speak_3_V2 = mkV2 (mkV "parlare") ;
 
+lin spoken_A = mkA "parlato" ;
+lin also_AdV = mkAdv "inoltre" ;
+-- lin but_1_Conj = ??? ;
+lin north_3_N = mkN "nord" ;
+lin south_3_N = mkN "sud" ;
+lin east_4_N = mkN "est" ;
+lin west_2_N = mkN "ovest" ;
+lin north_east_N = variants { mkN "nordest"; mkN "nord-est" } ;
+lin northwest_2_N = variants { mkN "nordovest"; mkN "nord-ovest" } ;
+lin south_east_N = variants { mkN "sudest"; mkN "sud-est" } ;
+lin south_west_N = variants { mkN "sudovest"; mkN "sud-ovest" } ;
+lin island_1_N = mkN "isola" ;
+lin on_1_Prep = mkPrep "su" ; -- sopra?
+lin to_1_Prep = mkPrep "a" ; -- verso? per? ...?
+lin square_1_N = mkN "quadrato" ;
+lin state_3_N = mkN "stato" ;
+
+lin north_america_1_PN = mkPN "America del Nord" ;
+lin saint_pierre_and_miquelon_2_PN = mkPN "Saint-Pierre e Miquelon" ;
+lin greenland_PN = mkPN "Groenlandia" ;
+lin asia_2_PN = mkPN "Asia" ;
+lin adriatic_sea_PN = mkPN "Mar Adriatico" ;
+lin balkans_2_PN = mkPN "Balcani" ;
+lin middle_east_9_PN = mkPN "Medio Oriente" ;
+lin delaware_5_N = mkN "lingua delaware" ;
+lin haida_N = mkN "lingua haida" ;
+lin seneca_N = mkN "lingua seneca" ;
 }
