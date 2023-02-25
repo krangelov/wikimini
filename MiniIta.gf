@@ -799,4 +799,8 @@ lin haida_N = mkN "lingua haida" feminine ;
 lin seneca_N = mkN "lingua seneca" feminine ;
 lin oneida_N = mkN "lingua oneida" feminine;
 lin onondaga_N = mkN "lingua onondaga" feminine ;
+
+lin europe_1_PN = mkPN "Europa" ;
+lin northern_ireland_PN = mkPN "Irlanda del Nord" ;
+lin yugoslavia_2_PN = mkPN "Jugoslavia" ;
 }
