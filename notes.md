@@ -12,7 +12,7 @@
     - le parole che cominciano con vocale;
     - le parole che cominciano con x e z;
     - le parole che cominciano con s impura (cioè seguita da un’altra consonante e non da una vocale, per esempio studio);
-    - i gruppi di consonanti gn, pn e ps.)
+    - i gruppi di consonanti gn, pn e ps.). I guess this should be solved in the RGL directly: https://github.com/GrammaticalFramework/gf-rgl/blob/cb397987fcee33542088a2d5573321453d7260bf/src/italian/PhonoIta.gf#L19-L22
 
 ## Disfluencies
 - pronoun drops would improve idiomacy, e.g.
