@@ -807,4 +807,5 @@ fun zulu_N : N ;                   -- 07007452-n	[linguistics] a Bantu language 
 fun europe_1_PN : PN ;
 fun northern_ireland_PN : PN ;
 fun yugoslavia_2_PN : PN ;
+fun gibraltar_2_PN : PN ;
 }

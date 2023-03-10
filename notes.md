@@ -1,4 +1,4 @@
-## Gramar errors
+## Grammar errors
 - country names should in many cases be introduced by an definite articles, e.g.
     > Canada é una nazione in Nordamerica -> Il Canada é una nazione in Nordamerica
 - `it_Pron` should linearize to "esso" (neutrum), not "lui" (masculine)
