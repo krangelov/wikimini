@@ -21,7 +21,6 @@ fun asia_2_PN : PN ;
 fun haida_N : N ;
 fun northwest_2_N : N ;
 fun on_1_Prep : Prep ;
-fun on_1_Prep : Prep ;
 fun south_west_N : N ;
 fun south_east_N : N ;
 fun spoken_A : A ;
