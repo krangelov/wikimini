@@ -1,4 +1,18 @@
-concrete MiniIta of Mini = CatIta ** open ConstructionIta, GrammarIta, (E=ExtendIta), ParadigmsIta, (S=StructuralIta), Prelude in {
+concrete MiniIta of Mini = CatIta ** open ConstructionIta, GrammarIta, (E=ExtendIta), ParadigmsIta, (S=StructuralIta), MakeStructuralIta, Prelude in {
+
+lin to_1_Prep = dative ;
+lin north_3_N = mkN "nord" ;
+lin north_america_1_PN = mkPN "America del Nord" feminine ;
+lin but_1_Conj = mkConj "" "ma" singular ;
+lin south_3_N = mkN "sud" ;
+lin square_1_N = mkN "quadrato" ;
+lin island_1_N = mkN "isola" ;
+lin east_4_N = mkN "est" ;
+lin state_3_N = mkN "stato" ;
+lin also_AdV = mkAdV "anche" ;
+lin west_2_N = mkN "ovest" ;
+lin asia_2_PN = mkPN "Asia" ;
+lin on_1_Prep = on_Prep ;
 
 lin abu_dhabi_PN = mkPN "Abu Dhabi" ;
 lin abuja_PN = mkPN "Abuja" ;
@@ -95,7 +109,7 @@ lin canada_PN = mkPN "Canada" ;
 lin canberra_PN = mkPN "Canberra" ;
 lin cape_verde_PN = mkPN "Capo Verde" ;
 lin cape_town_PN = mkPN "Città del Capo" ;
-lin capital_3_N = mkN "capitale" ;
+lin capital_3_N = mkN "capitale" feminine ;
 lin caracas_PN = mkPN "Caracas" ;
 lin cardiff_PN = mkPN "Cardiff" ;
 lin caribbean_PN = mkPN "Caraibi" ;
