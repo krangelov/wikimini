@@ -200,7 +200,7 @@ lin haitian_creole_N = mkN "créole haïtien" ;
 lin hanoi_PN = mkPN "Hanoï" ;
 lin harare_PN = mkPN "Harare" ;
 lin havana_PN = mkPN "La Havane" ;
-lin have_1_V2 = mkV2 (mkV "avoir") ;
+lin have_1_V2 = GrammarFre.have_V2 ;
 lin helsinki_PN = mkPN "Helsinki" ;
 lin hindi_N = mkN "hindi" ;
 lin hindustani_2_N = mkN "hindoustani" ;
@@ -795,7 +795,7 @@ lin south_west_N = mkN "sud-ouest" ;
 lin spoken_A = mkA "parlé" "parlée";
 lin square_1_N = mkN "carré" ;
 lin state_3_N = mkN "état" ;
-lin to_1_Prep = mkPrep "à" ; --not sure
+lin to_1_Prep = dative ;
 lin west_2_N = mkN "ouest" ;
 
 }
