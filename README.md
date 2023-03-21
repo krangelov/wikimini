@@ -12,6 +12,10 @@ The web page tries to immitate the actual Wikipedia UI and works in a similar wa
 
 When you are on a particular article you can click on the "Edit" tab. This lets you see the abstract syntax trees that are used in the current document. In addition when you click on a word in the text, you can see in which sense the word was used as well as its linearization in the selected languages. You can add more than one language by using the checkboxes in the left-side bar.
 
+A slide deck explaining the architecture can be found in
+
+[https://docs.google.com/presentation/d/1HLXph0zTLMt8Jzlqf6cXW2kPbQ-xM3HHtzwaasXAqn4/edit#slide=id.p]
+
 ## Editing on the web
 
 If you login on the web page, you will also be able to actually edit the lexicon online. In this case the grammar will be updated dynamically. Currently, however, you still need to click on refresh to update the current document. The list of changes that you made are also collected on the server. To actually commit them to GitHub, click "commit". For the login to work you need to be added to the WordNet repository. Mail me your github account and I will add you.
