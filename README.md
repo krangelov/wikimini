@@ -34,8 +34,20 @@ With these grammars, you can test generation in the GF shell with the following 
 
 When you are done with your edits, they will be (with some delay) integrated in the bigger grammar in the running demo.
 
+Here is the workflow more precisely:
+
+1. Fork WikiMini (this repository)
+2. Inform everyone what languages you work on (e.g. by email to gf-dev; a better forum coming soon)
+3. Test your language with provided treebanks, as explained above
+3. Correct errors in lexical linearizations
+4. Report on errors in syntactic constructions and idiomacy in an attached document issues/<your-language>.md
+5. Make a pull request to integrate your work in the system
+6. Participate as a co-author of a great publication (to be started at the GF Summer School in August)
+
+
 
 ## Known Issues
 
 1. The article always use the pronoun "it" for country but this will change later.
+2. Read issues/ on different languages
 
