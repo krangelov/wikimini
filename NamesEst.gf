@@ -1,0 +1,1 @@
+concrete NamesEst of Names = CatEst ** { lincat LN = PN; }

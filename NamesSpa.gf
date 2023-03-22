@@ -1,0 +1,1 @@
+concrete NamesSpa of Names = CatSpa ** { lincat LN = PN; }

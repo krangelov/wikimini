@@ -1,0 +1,1 @@
+concrete NamesFre of Names = CatFre ** { lincat LN = PN; }

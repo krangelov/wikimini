@@ -1,0 +1,1 @@
+concrete NamesSlv of Names = CatSlv ** { lincat LN = PN; }

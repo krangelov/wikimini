@@ -1,0 +1,1 @@
+concrete NamesRus of Names = CatRus ** { lincat LN = PN; }
