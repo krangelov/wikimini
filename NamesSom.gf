@@ -1,0 +1,1 @@
+concrete NamesSom of Names = CatSom ** { lincat LN = PN; }

@@ -1,0 +1,1 @@
+concrete NamesSwa of Names = CatSwa ** { lincat LN = PN; }
