@@ -775,4 +775,7 @@ lin zapotec_N = mkN "Zapotec" ;
 lin zhuang_N = mkN "Zhuang" ;
 lin zulu_N = mkN "Zulu" ;
 
+lin europe_1_PN = mkPN "Europe" ;
+lin northern_ireland_PN = mkPN "Northern Ireland" ;
+lin yugoslavia_2_PN = mkPN "Jugoslavia" ;
 }

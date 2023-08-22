@@ -803,4 +803,8 @@ fun zapotec_N : N ;                -- 06931898-n	[linguistics] the language of t
 fun zhuang_N : N ;                 -- 06949156-n	[linguistics] a branch of the Tai languages
 fun zulu_N : N ;                   -- 07007452-n	[linguistics] a Bantu language of considerable literary importance in southeastern Africa
 
+fun europe_1_PN : PN ;
+fun northern_ireland_PN : PN ;
+fun yugoslavia_2_PN : PN ;
+fun gibraltar_2_PN : PN ;
 }
