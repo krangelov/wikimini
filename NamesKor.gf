@@ -1,1 +1,0 @@
-concrete NamesKor of Names = CatKor ** { lincat LN = PN; }

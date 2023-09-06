@@ -1,4 +1,6 @@
-abstract Mini = Cat,Names ** {
+abstract Mini = Cat
+--,Names
+** {
 
 -- added afterwards, because found in trees
 fun speak_3_V2 : V2 ;              -- 00965602-v	use language; "they speak a strange dialect"

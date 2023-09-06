@@ -1,1 +1,0 @@
-concrete NamesTur of Names = CatTur ** { lincat LN = PN; }

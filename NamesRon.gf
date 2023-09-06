@@ -1,1 +1,0 @@
-concrete NamesRon of Names = CatRon ** { lincat LN = PN; }

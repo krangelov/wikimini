@@ -1,1 +1,0 @@
-concrete NamesDut of Names = CatDut ** { lincat LN = PN; }

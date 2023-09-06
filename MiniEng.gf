@@ -1,4 +1,8 @@
-concrete MiniEng of Mini = CatEng,NamesEng ** open MorphoEng, ResEng, ParadigmsEng, IrregEng, ExtraEng, (G = GrammarEng), (C = ConstructX), NamesEng, Prelude in {
+concrete MiniEng of Mini = CatEng
+-- ,NamesEng
+** open MorphoEng, ResEng, ParadigmsEng, IrregEng, ExtraEng, (G = GrammarEng), (C = ConstructX),
+-- NamesEng,
+Prelude in {
 
 -- added afterwards
 lin speak_3_V2 = mkV2 speak_V ;
@@ -531,7 +535,7 @@ lin wellington_2_LN = mkLN "Wellington";
 lin welsh_2_N = mkN "welsh" ;
 lin west_african_A = mkA "West African" ;
 lin windhoek_LN = mkLN "Windhoek" ;
-lin with_Prep = mkPrep "with";
+--lin with_Prep = mkPrep "with";
 lin yaoundé_LN = mkLN "Yaoundé" ;
 lin yemen_LN = mkLN "Yemen";
 lin yerevan_LN = mkLN "Yerevan";

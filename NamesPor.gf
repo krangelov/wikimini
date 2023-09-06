@@ -1,1 +1,0 @@
-concrete NamesPor of Names = CatPor ** { lincat LN = PN; }

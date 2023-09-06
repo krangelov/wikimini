@@ -1,1 +1,0 @@
-concrete NamesTha of Names = CatTha ** { lincat LN = PN; }

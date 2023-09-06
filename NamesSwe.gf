@@ -1,1 +1,0 @@
-concrete NamesSwe of Names = CatSwe ** { lincat LN = PN; }
