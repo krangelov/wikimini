@@ -1,0 +1,1 @@
+concrete NamesChi of Names = CatChi ** { lincat LN = PN; }

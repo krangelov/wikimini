@@ -1,0 +1,1 @@
+concrete NamesBul of Names = CatBul ** { lincat LN = PN; }

@@ -1,0 +1,1 @@
+concrete NamesGer of Names = CatGer ** { lincat LN = PN; }

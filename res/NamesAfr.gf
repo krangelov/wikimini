@@ -1,0 +1,1 @@
+concrete NamesAfr of Names = CatAfr ** { lincat LN = PN; }

@@ -1,0 +1,1 @@
+concrete NamesFin of Names = CatFin ** { lincat LN = PN; }
