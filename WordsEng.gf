@@ -1,4 +1,7 @@
+--# -path=.:../gf-wordnet
+
 concrete WordsEng of Words = WordNetEng [
+  N, PN, LN, SN, GN, A, V2, V3,
   aargau_4_LN,
   abd_rabbo_8_GN,
   abdel_fattah_5_GN,

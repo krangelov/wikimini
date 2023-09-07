@@ -1,3 +1,5 @@
+--# -path=.:../gf-wordnet
+
 concrete WordsFin of Words = WordNetFin [
   N, PN, LN, SN, GN, A, V2, V3,
   aargau_4_LN,
