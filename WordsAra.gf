@@ -1,9 +1,9 @@
 --# -path=.:../gf-wordnet
 
-concrete WordsAra of Words = {}
+-- you need to link to gf-rgl/src/arabic/wiktionary/ files
+-- MorphoDictAraAbs.gf, MorphoDictAra.gf, MoreAra.gf, WordNetAra.gf
 
-{-
-WordNetEng [
+concrete WordsAra of Words = WordNetAra [
   N, PN, LN, SN, GN, A, V2, V3,
   aargau_4_LN,
   abd_rabbo_8_GN,
@@ -3691,4 +3691,4 @@ WordNetEng [
   zuma_7_SN,
   zuwara_municipality_2_LN
   ] ;
-  -}
+ 
