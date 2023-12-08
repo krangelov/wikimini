@@ -1,6 +1,10 @@
 --# -path=.:./gf-wordnet
-concrete WordNetAra of WordNet = CatAra ** open MorphoDictAra, MoreAra, ParadigmsAra in {
-lin en = variants {} ; --- guess fromlin chinese_N = 'صِينِيَّة_N'
+concrete WordNetAra of WordNet = CatAra ** open MorphoDictAra, MoreAra, ParadigmsAra, SyntaxAra in {
+-- lin en = variants {} ; --- guess fromlin chinese_N = 'صِينِيَّة_N'
+
+lin of_1_Prep = possess_Prep ;
+lin in_1_Prep = in_Prep ;
+
 lin dari_N = 'دارِيَّة_N' ;
 lin development_2_N = 'تَطْوِير_N' ;
 lin italian_N = 'إِيطالِيَّة_N' ;

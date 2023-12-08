@@ -4,7 +4,8 @@ import pgf
 # gf -make WikiEng.gf WikiSwe.gf WikiFin.gf
 
 PGF_FILE = 'Wiki.pgf'
-TREE_FILE = 'data/all_trees.txt'
+TREE_FILE = 'data/some_trees.txt'
+# TREE_FILE = 'data/all_trees.txt'
 
 
 gr = pgf.readPGF(PGF_FILE)

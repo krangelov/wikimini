@@ -101,9 +101,9 @@ concrete WikiAra of Wiki =
   from_Prep,
   gen_Quant,
   he_Pron,
-  in_1_Prep,
+--  in_1_Prep,
   it_Pron,
-  of_1_Prep,
+--  of_1_Prep,
   out_of_3_Prep,
   partly_AdA,
   per_Prep,
@@ -124,10 +124,11 @@ ExtendAra [
 -- MiniAra
 WordsAra **
 open
-  ParadigmsAra, Prelude in {
+  ParadigmsAra, SyntaxAra, Prelude in {
 lincat Mark = {s : Str} ;
 
 lin PhrUttMark pconj utt voc mark = {s = pconj.s ++ utt.s ! masc ++ voc.s ++ SOFT_BIND ++ mark.s} ;
 lin FullStop  = {s = "."} ;
+
 
 }

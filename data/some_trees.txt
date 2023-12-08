@@ -1,0 +1,167 @@
+-- Q16
+canada_LN
+flag_1_N
+coat_of_arms_N
+PhrUttMark NoPConj (UttS (UseCl (TTAnt TPres ASimul) PPos (PredVP (UseLN canada_LN) (UseComp (CompNP (DetCN (DetQuant IndefArt NumSg) (AdvCN (AdvCN (UseN country_2_N) (PrepNP in_1_Prep (UseLN north_america_1_LN))) (PrepNP with_Prep (DetCN (DetQuant IndefArt (NumCard (NumDecimal (PosDecimal (IIDig D_4 (IIDig D_0 (IIDig D_0 (IIDig D_0 (IIDig D_0 (IIDig D_0 (IIDig D_0 (IDig D_0)))))))))))) (UseN inhabitant_1_N)))))))))) NoVoc FullStop
+PhrUttMark NoPConj (UttS (UseCl (TTAnt TPres ASimul) PPos (PredVP (UsePron it_Pron) (ComplSlash (SlashV2a have_1_V2) (DetCN (DetQuant IndefArt NumPl) (AdvCN (UseN border_1_N) (PrepNP with_Prep (ConjNP and_Conj (ConsNP (UseLN united_states_LN) (BaseNP (UseLN saint_pierre_and_miquelon_1_LN) (UseLN greenland_LN))))))))))) NoVoc FullStop
+PhrUttMark NoPConj (UttS (UseCl (TTAnt TPres ASimul) PPos (PredVP (DetCN (DetQuant DefArt NumSg) (UseN area_6_N)) (UseComp (CompNP (DetCN (DetQuant IndefArt (NumCard (NumDecimal (PosDecimal (IIDig D_9 (IIDig D_9 (IIDig D_8 (IIDig D_4 (IIDig D_6 (IIDig D_7 (IDig D_0))))))))))) (AdjCN (PositA square_1_A) (UseN kilometre_1_N)))))))) NoVoc FullStop
+PhrUttMark NoPConj (UttS (UseCl (TTAnt TPres ASimul) PPos (PredVP (DetCN (DetQuant DefArt NumSg) (UseN capital_3_N)) (UseComp (CompNP (UseLN ottawa_3_LN)))))) NoVoc FullStop
+PhrUttMark NoPConj (UttS (ConjS but_1_Conj (BaseS (UseCl (TTAnt TPres ASimul) PPos (PredVP (ConjNP and_Conj (BaseNP (MassNP (UseN english_N)) (MassNP (UseN french_N)))) (UseComp (CompNP (DetCN (DetQuant DefArt NumPl) (AdjCN (PositA official_1_A) (UseN language_1_N))))))) (UseCl (TTAnt TPres ASimul) PPos (PredVP (ConjNP and_Conj (ConsNP (MassNP (UseN oneida_N)) (ConsNP (MassNP (UseN onondaga_N)) (ConsNP (MassNP (UseN tuscarora_N)) (ConsNP (MassNP (UseN chipewyan_N)) (ConsNP (MassNP (UseN algonquin_N)) (ConsNP (MassNP (UseN tlingit_N)) (ConsNP (MassNP (UseN mohawk_2_N)) (ConsNP (MassNP (UseN cayuga_N)) (ConsNP (MassNP (UseN blackfoot_N)) (ConsNP (MassNP (UseN cree_N)) (ConsNP (MassNP (UseN haida_N)) (BaseNP (MassNP (UseN filipino_2_N)) (MassNP (UseN tsimshian_N))))))))))))))) (AdVVP also_AdV (PassVPSlash (SlashV2a speak_3_V2)))))))) NoVoc FullStop
+demographic_N
+PhrUttMark NoPConj (UttS (UseCl (TTAnt TPres ASimul) PPos (PredVP (UseLN canada_LN) (ComplSlash (SlashV2a have_1_V2) (DetCN (DetQuant DefArt NumSg) (AdvCN (AdjCN (AdjOrd (OrdSuperl high_1_A)) (UseN life_expectancy_N)) (PrepNP in_1_Prep (AdvNP (UseLN north_america_1_LN) (PrepNP with_Prep (DetCN (DetQuant IndefArt NumSg) (AdvCN (UseN average_1_N) (PrepNP of_1_Prep (DetCN (DetQuant IndefArt (NumCard (NumDecimal (PosDecimal (IIDig D_8 (IDig D_3)))))) (UseN year_1_N)))))))))))))) NoVoc FullStop
+PhrUttMark NoPConj (UttS (UseCl (TTAnt TPres ASimul) PPos (PredVP (DetCN (DetQuant DefArt NumSg) (UseN fertility_1_N)) (UseComp (CompNP (DetCN (DetQuant IndefArt (NumCard (NumDecimal (IFrac (IFrac (PosDecimal (IDig D_1)) D_5) D_7)))) (AdvCN (UseN child_2_N) (PrepNP per_Prep (MassNP (UseN woman_1_N)))))))))) NoVoc FullStop
+PhrUttMark NoPConj (UttS (UseCl (TTAnt TPres ASimul) PPos (PredVP (UseLN toronto_LN) (UseComp (CompNP (DetCN (DetQuant DefArt NumSg) (AdvCN (AdjCN (AdjOrd (OrdSuperl large_1_A)) (AdvCN (UseN city_1_N) (PrepNP in_1_Prep (UseLN canada_LN)))) (PrepNP with_Prep (DetCN (DetQuant IndefArt (NumCard (NumDecimal (PosDecimal (IIDig D_2 (IIDig D_7 (IIDig D_9 (IIDig D_4 (IIDig D_3 (IIDig D_5 (IDig D_6))))))))))) (UseN inhabitant_1_N)))))))))) NoVoc FullStop
+PhrUtt NoPConj (UttS (UseCl (TTAnt TPres ASimul) PPos (PredVP (DetCN (DetQuant DefArt NumSg) (UseN country_1_N)) (ComplSlash (SlashV2a have_1_V2) (DetCN (DetQuant IndefArt NumSg) (AdjCN (AdAP very_AdA (PositA high_1_A)) (UseN (CompoundN human_N development_2_N)))))))) NoVoc
+education_1_N
+PhrUttMark NoPConj (UttS (UseCl (TTAnt TPres ASimul) PPos (PredVP (MassNP (UseN education_1_N)) (UseComp (CompAP (AdvAP (PositA obligatory_1_A) (PrepNP for_Prep (DetCN (DetQuant IndefArt NumPl) (PossNP (UseN child_1_N) (MassNP (AdvCN (UseN age_1_N) (PrepNP from_Prep (DetCN (DetQuant IndefArt (NumCard (NumDecimal (PosDecimal (IDig D_6))))) (UseN year_1_N)))))))))))))) NoVoc FullStop
+PhrUttMark NoPConj (UttS (UseCl (TTAnt TPres ASimul) PPos (PredVP (UseDAP (DetDAP (DetQuant this_Quant NumSg))) (ComplSlash (SlashV2a result_in_V2) (DetCN (DetQuant IndefArt NumSg) (AdvCN (UseN (CompoundN literacy_N rate_4_N)) (PrepNP of_1_Prep (QuantityNP (PosDecimal (IIDig D_9 (IDig D_9))) percent_MU)))))))) NoVoc FullStop
+DetCN (DetQuant IndefArt NumPl) (AdjCN (PositA administrative_A) (UseN unit_3_N))
+PredVP (DetCN (DetQuant DefArt NumSg) (UseN country_1_N)) (ComplSlash (SlashV2a have_1_V2) (DetCN (DetQuant DefArt NumPl) (AdjCN (PositA following_2_A) (AdjCN (PositA administrative_A) (UseN unit_3_N)))))
+ontario_2_LN
+quebec_2_LN
+nova_scotia_1_LN
+new_brunswick_1_LN
+manitoba_LN
+newfoundland_and_labrador_LN
+prince_edward_island_LN
+saskatchewan_LN
+alberta_LN
+yukon_2_LN
+northwest_territories_LN
+nunavut_LN
+british_columbia_LN
+politics_2_N
+PhrUttMark NoPConj (UttS (UseCl (TTAnt TPres ASimul) PPos (PredVP (UseLN canada_LN) (UseComp (CompNP (DetCN (DetQuant IndefArt NumSg) (AdvCN (AdjCN (PositA parliamentary_2_A) (UseN system_4_N)) (PrepNP with_Prep (AdvNP (MassNP (ApposCN (UseN king_1_N) (FullName charles_GN windsor_2_SN))) (PrepNP as_Prep (MassNP (UseN head_of_state_N)))))))))))) NoVoc FullStop
+PhrUttMark NoPConj (UttS (UseCl (TTAnt TPast ASimul) PPos (PredVP (UsePron he_Pron) (AdvVP (ComplSlash (SlashV2a succeed_V2) (DetCN (DetQuant (PossPron he_Pron) NumSg) (ApposCN (UseN mother_1_N) (MassNP (ApposCN (UseN queen_2_N) (FullName elizabeth_GN windsor_2_SN)))))) (PrepNP in_1_Prep (DetCN (DetQuant DefArt NumSg) (UseN position_6_N))))))) NoVoc FullStop
+PhrUttMark NoPConj (UttS (UseCl (TTAnt TPres ASimul) PPos (PredVP (DetCN (DetQuant DefArt NumSg) (AdjCN (PositA current_A) (PossNP (UseN head_4_N) (DetCN (DetQuant gen_Quant NumSg) (UseN government_1_N))))) (UseComp (CompNP (ExtRelNP (MassNP (ApposCN (UseN prime_minister_2_N) (FullName justin_GN trudeau_6_SN))) (UseRCl (TTAnt TPast ASimul) PPos (RelVP IdRP (AdvVP (ComplSlash (SlashV2a take_12_V2) (MassNP (UseN office_4_N))) (PrepNP after_Prep (MassNP (ApposCN (UseN prime_minister_2_N) (FullName stephen_GN harper_8_SN))))))))))))) NoVoc FullStop
+PhrUttMark NoPConj (UttS (UseCl (TTAnt TPres ASimul) PPos (PredVP (DetCN (DetQuant DefArt NumSg) (UseN country_1_N)) (UseComp (CompNP (DetCN (DetQuant IndefArt NumSg) (PossNP (UseN member_4_N) (ConjNP and_Conj (ConsNP (UsePN unesco_PN) (ConsNP (MassNP (UseN commonwealth_3_N)) (BaseNP (UsePN interpol_PN) (UsePN nato_PN)))))))))))) NoVoc FullStop
+PhrUttMark NoPConj (UttS (ExtAdvS (PrepNP with_Prep (AdvNP (DetCN (DetQuant IndefArt NumSg) (UseN (CompoundN democracy_2_N index_2_N))) (PrepNP of_1_Prep (DetCN (DetQuant IndefArt (NumCard (NumDecimal (IFrac (IFrac (PosDecimal (IDig D_9)) D_2) D_4)))) (UseN point_10_N))))) (UseCl (TTAnt TPres ASimul) PPos (PredVP (UseLN canada_LN) (AdvVP (PassVPSlash (SlashV2a rank_2_V2)) (PrepNP as_Prep (DetCN (DetQuant IndefArt NumSg) (AdjCN (PositA full_3_A) (UseN democracy_2_N))))))))) NoVoc FullStop
+PhrUttMark NoPConj (UttS (UseCl (TTAnt TPres ASimul) PPos (PredVP (AdvNP (MassNP (UseN freedom_1_N)) (PrepNP in_1_Prep (DetCN (DetQuant DefArt NumSg) (UseN world_5_N)))) (ComplSlash (Slash2V3 consider_6_V3 (UsePron it_Pron)) (DetCN (DetQuant IndefArt NumSg) (AdjCN (PositA free_1_A) (UseN country_1_N))))))) NoVoc FullStop
+economy_1_N
+PhrUttMark NoPConj (UttS (UseCl (TTAnt TPres ASimul) PPos (PredVP (DetCN (DetQuant DefArt NumSg) (AdjCN (PositA gross_1_A) (AdjCN (PositA domestic_1_A) (UseN product_2_N)))) (UseComp (CompNP (AdvNP (ConjNP and_Conj (BaseNP (QuantityNP (PosDecimal (IIDig D_1 (IIDig D_6 (IIDig D_5 (IIDig D_3 (IIDig D_0 (IIDig D_4 (IIDig D_2 (IIDig D_7 (IIDig D_9 (IIDig D_5 (IIDig D_2 (IIDig D_5 (IDig D_5)))))))))))))) dollar_MU) (AdvNP (QuantityNP (PosDecimal (IIDig D_4 (IIDig D_4 (IIDig D_8 (IIDig D_7 (IDig D_0)))))) dollar_MU) per_capita_Adv))) (PrepNP with_Prep (AdvNP (DetCN (DetQuant IndefArt NumSg) (UseN growth_3_N)) (PrepNP of_1_Prep (QuantityNP (IFrac (PosDecimal (IDig D_1)) D_4) percent_MU)))))))))) NoVoc FullStop
+PhrUttMark NoPConj (UttS (UseCl (TTAnt TPres ASimul) PPos (PredVP (DetCN (DetQuant DefArt NumSg) (UseN (CompoundN inflation_1_N rate_2_N))) (UseComp (CompNP (QuantityNP (IFrac (PosDecimal (IDig D_1)) D_4) percent_MU)))))) NoVoc FullStop
+PhrUttMark NoPConj (UttS (UseCl (TTAnt TPres ASimul) PPos (PredVP (DetCN (DetQuant DefArt NumSg) (UseN country_2_N)) (ComplSlash (SlashV2a have_1_V2) (AdvNP (DetCN (DetQuant IndefArt NumSg) (AdjCN (PositA total_1_A) (UseN reserve_2_N))) (PrepNP of_1_Prep (QuantityNP (PosDecimal (IIDig D_8 (IIDig D_6 (IIDig D_6 (IIDig D_7 (IIDig D_7 (IIDig D_7 (IIDig D_0 (IIDig D_6 (IIDig D_6 (IIDig D_9 (IDig D_6)))))))))))) dollar_MU))))))) NoVoc FullStop
+UttS (ConjS and_Conj (BaseS (UseCl (TTAnt TPres ASimul) PPos (PredVP (DetCN (DetQuant DefArt NumSg) (AdjCN (PositA median_3_A) (UseN income_N))) (UseComp (CompNP (QuantityNP (PosDecimal (IIDig D_7 (IIDig D_0 (IIDig D_3 (IIDig D_3 (IDig D_6)))))) dollar_MU))))) (UseCl (TTAnt TPres ASimul) PPos (PredVP (DetCN (DetQuant (PossPron it_Pron) NumSg) (UseN distribution_1_N)) (ComplSlash (SlashV2a show_2_V2) (DetCN (DetQuant IndefArt NumSg) (AdjCN (PositA moderate_1_A) (UseN equality_1_N))))))))
+QuantityNP (PosDecimal (IIDig D_3 (IDig D_3))) percent_MU
+PhrUttMark NoPConj (UttS (UseCl (TTAnt TPres ASimul) PPos (PredVP (DetCN (DetQuant DefArt NumSg) (UseN unemployment_N)) (UseComp (CompNP (QuantityNP (PosDecimal (IDig D_7)) percent_MU)))))) NoVoc FullStop
+-- Q34
+sweden_LN
+flag_1_N
+coat_of_arms_N
+PhrUttMark NoPConj (UttS (UseCl (TTAnt TPres ASimul) PPos (PredVP (UseLN sweden_LN) (UseComp (CompNP (DetCN (DetQuant IndefArt NumSg) (AdvCN (AdvCN (AdjCN (PositA nordic_2_A) (UseN country_2_N)) (PrepNP in_1_Prep (UseLN scandinavia_2_LN))) (PrepNP with_Prep (DetCN (DetQuant IndefArt (NumCard (NumDecimal (PosDecimal (IIDig D_1 (IIDig D_0 (IIDig D_4 (IIDig D_0 (IIDig D_9 (IIDig D_2 (IIDig D_4 (IDig D_8)))))))))))) (UseN inhabitant_1_N)))))))))) NoVoc FullStop
+PhrUttMark NoPConj (UttS (UseCl (TTAnt TPres ASimul) PPos (PredVP (UsePron it_Pron) (ComplSlash (SlashV2a have_1_V2) (DetCN (DetQuant IndefArt NumPl) (AdvCN (UseN border_1_N) (PrepNP with_Prep (ConjNP and_Conj (ConsNP (AdvNP (UseLN finland_LN) (PrepNP to_2_Prep (DetCN (DetQuant DefArt NumSg) (UseN east_4_N)))) (ConsNP (AdvNP (UseLN norway_LN) (PrepNP to_2_Prep (DetCN (DetQuant DefArt NumSg) (UseN west_2_N)))) (ConsNP (AdvNP (UseLN denmark_LN) (PrepNP to_2_Prep (DetCN (DetQuant DefArt NumSg) (UseN south_3_N)))) (ConsNP (UseLN estonia_LN) (ConsNP (UseLN russia_2_LN) (ConsNP (UseLN latvia_LN) (ConsNP (UseLN lithuania_LN) (BaseNP (UseLN poland_LN) (UseLN germany_LN))))))))))))))))) NoVoc FullStop
+PhrUttMark NoPConj (UttS (UseCl (TTAnt TPres ASimul) PPos (PredVP (DetCN (DetQuant DefArt NumSg) (UseN area_6_N)) (UseComp (CompNP (DetCN (DetQuant IndefArt (NumCard (NumDecimal (PosDecimal (IIDig D_4 (IIDig D_4 (IIDig D_7 (IIDig D_4 (IIDig D_2 (IDig D_5)))))))))) (AdjCN (PositA square_1_A) (UseN kilometre_1_N)))))))) NoVoc FullStop
+PhrUttMark NoPConj (UttS (UseCl (TTAnt TPres ASimul) PPos (PredVP (DetCN (DetQuant DefArt NumSg) (UseN capital_3_N)) (UseComp (CompNP (UseLN stockholm_LN)))))) NoVoc FullStop
+PhrUttMark NoPConj (UttS (UseCl (TTAnt TPres ASimul) PPos (PredVP (DetCN (DetQuant DefArt NumPl) (AdjCN (PositA official_1_A) (UseN language_1_N))) (UseComp (CompNP (ConjNP and_Conj (ConsNP (MassNP (UseN swedish_N)) (BaseNP (MassNP (UseN finnish_N)) (MassNP (UseN yiddish_N)))))))))) NoVoc FullStop
+demographic_N
+PhrUttMark NoPConj (UttS (UseCl (TTAnt TPres ASimul) PPos (PredVP (DetCN (DetQuant DefArt NumSg) (UseN life_expectancy_N)) (UseComp (CompNP (DetCN (DetQuant IndefArt (NumCard (NumDecimal (PosDecimal (IIDig D_8 (IDig D_2)))))) (UseN year_1_N))))))) NoVoc FullStop
+PhrUttMark NoPConj (UttS (UseCl (TTAnt TPres ASimul) PPos (PredVP (DetCN (DetQuant DefArt NumSg) (UseN fertility_1_N)) (UseComp (CompNP (DetCN (DetQuant IndefArt (NumCard (NumDecimal (IFrac (IFrac (PosDecimal (IDig D_1)) D_8) D_9)))) (AdvCN (UseN child_2_N) (PrepNP per_Prep (MassNP (UseN woman_1_N)))))))))) NoVoc FullStop
+PhrUttMark NoPConj (UttS (UseCl (TTAnt TPres ASimul) PPos (PredVP (UseLN stockholm_LN) (UseComp (CompNP (DetCN (DetQuant DefArt NumSg) (AdvCN (AdjCN (AdjOrd (OrdSuperl large_1_A)) (AdvCN (UseN city_1_N) (PrepNP in_1_Prep (UseLN sweden_LN)))) (PrepNP with_Prep (DetCN (DetQuant IndefArt (NumCard (NumDecimal (PosDecimal (IIDig D_9 (IIDig D_7 (IIDig D_8 (IIDig D_7 (IIDig D_7 (IDig D_0)))))))))) (UseN inhabitant_1_N)))))))))) NoVoc FullStop
+PhrUtt NoPConj (UttS (UseCl (TTAnt TPres ASimul) PPos (PredVP (DetCN (DetQuant DefArt NumSg) (UseN country_1_N)) (ComplSlash (SlashV2a have_1_V2) (DetCN (DetQuant IndefArt NumSg) (AdjCN (AdAP very_AdA (PositA high_1_A)) (UseN (CompoundN human_N development_2_N)))))))) NoVoc
+education_1_N
+PhrUttMark NoPConj (UttS (UseCl (TTAnt TPres ASimul) PPos (PredVP (MassNP (UseN education_1_N)) (UseComp (CompAP (AdvAP (PositA obligatory_1_A) (PrepNP for_Prep (DetCN (DetQuant IndefArt NumPl) (PossNP (UseN child_1_N) (MassNP (AdvCN (AdvCN (UseN age_1_N) (PrepNP from_Prep (DetCN (DetQuant IndefArt (NumCard (NumDecimal (PosDecimal (IDig D_6))))) (UseN year_1_N)))) (PrepNP to_1_Prep (DetCN (DetQuant IndefArt (NumCard (NumDecimal (PosDecimal (IIDig D_1 (IDig D_6)))))) (UseN year_1_N)))))))))))))) NoVoc FullStop
+PhrUttMark NoPConj (UttS (UseCl (TTAnt TPres ASimul) PPos (PredVP (UseDAP (DetDAP (DetQuant this_Quant NumSg))) (ComplSlash (SlashV2a result_in_V2) (DetCN (DetQuant IndefArt NumSg) (AdvCN (UseN (CompoundN literacy_N rate_4_N)) (PrepNP of_1_Prep (QuantityNP (IFrac (PosDecimal (IIDig D_9 (IDig D_9))) D_9) percent_MU)))))))) NoVoc FullStop
+PhrUttMark NoPConj (UttS (UseCl (TTAnt TPres ASimul) PPos (PredVP (DetCN (DetQuant IndefArt (NumCard (NumDecimal (PosDecimal (IIDig D_9 (IIDig D_4 (IIDig D_2 (IDig D_4)))))))) (UseN child_1_N)) (UseComp (CompAdv (PrepNP out_of_3_Prep (DetCN (DetQuant DefArt NumSg) (UseN (CompoundN education_1_N system_1_N))))))))) NoVoc FullStop
+PhrUttMark NoPConj (UttS (UseCl (TTAnt TPres ASimul) PPos (PredVP (UseDAP (DetDAP (DetQuant this_Quant NumSg))) (ComplSlash (SlashV2a amount_to_2_V2) (AdvNP (QuantityNP (IFrac (IFrac (PosDecimal (IDig D_0)) D_0) D_9) percent_MU) (PrepNP of_1_Prep (DetCN (DetQuant DefArt NumSg) (UseN population_1_N)))))))) NoVoc FullStop
+DetCN (DetQuant IndefArt NumPl) (AdjCN (PositA administrative_A) (UseN unit_3_N))
+PredVP (DetCN (DetQuant DefArt NumSg) (UseN country_1_N)) (ComplSlash (SlashV2a have_1_V2) (DetCN (DetQuant DefArt NumPl) (AdjCN (PositA following_2_A) (AdjCN (PositA administrative_A) (UseN unit_3_N)))))
+blekinge_county_2_LN
+dalarna_county_9_LN
+gotland_county_7_LN
+g\xc3\xa4vleborg_county_5_LN
+halland_county_9_LN
+j\xc3\xa4mtland_county_7_LN
+j\xc3\xb6nk\xc3\xb6ping_county_4_LN
+kalmar_county_2_LN
+kronoberg_county_1_LN
+norrbotten_county_6_LN
+sk\xc3\xa5ne_county_3_LN
+stockholm_county_8_LN
+s\xc3\xb6dermanland_county_6_LN
+uppsala_county_7_LN
+v\xc3\xa4rmland_county_1_LN
+v\xc3\xa4sterbotten_county_5_LN
+v\xc3\xa4sternorrland_county_3_LN
+v\xc3\xa4stmanland_county_3_LN
+v\xc3\xa4stra_g\xc3\xb6taland_county_8_LN
+\xc3\xb6rebro_county_6_LN
+\xc3\xb6sterg\xc3\xb6tland_county_6_LN
+politics_2_N
+PhrUttMark NoPConj (UttS (UseCl (TTAnt TPres ASimul) PPos (PredVP (UseLN sweden_LN) (UseComp (CompNP (DetCN (DetQuant IndefArt NumSg) (AdvCN (AdjCN (PositA representative_3_A) (UseN democracy_2_N)) (PrepNP with_Prep (AdvNP (MassNP (ApposCN (UseN king_1_N) (GivenName carl_GN))) (PrepNP as_Prep (MassNP (UseN head_of_state_N)))))))))))) NoVoc FullStop
+PhrUttMark NoPConj (UttS (UseCl (TTAnt TPast ASimul) PPos (PredVP (UsePron he_Pron) (AdvVP (ComplSlash (SlashV2a succeed_V2) (MassNP (ApposCN (UseN king_1_N) (GivenName oscar_GN)))) (PrepNP in_1_Prep (DetCN (DetQuant DefArt NumSg) (UseN position_6_N))))))) NoVoc FullStop
+PhrUttMark NoPConj (UttS (UseCl (TTAnt TPres ASimul) PPos (PredVP (DetCN (DetQuant DefArt NumSg) (AdjCN (PositA current_A) (PossNP (UseN head_4_N) (DetCN (DetQuant gen_Quant NumSg) (UseN government_1_N))))) (UseComp (CompNP (ExtRelNP (MassNP (ApposCN (UseN prime_minister_2_N) (FullName ulf_3_GN kristersson_5_SN))) (UseRCl (TTAnt TPast ASimul) PPos (RelVP IdRP (AdvVP (ComplSlash (SlashV2a take_12_V2) (MassNP (UseN office_4_N))) (PrepNP after_Prep (MassNP (ApposCN (UseN prime_minister_2_N) (FullName magdalena_4_GN andersson_9_SN))))))))))))) NoVoc FullStop
+PhrUttMark NoPConj (UttS (UseCl (TTAnt TPres ASimul) PPos (PredVP (DetCN (DetQuant DefArt NumSg) (UseN country_1_N)) (UseComp (CompNP (DetCN (DetQuant IndefArt NumSg) (PossNP (UseN member_4_N) (ConjNP and_Conj (ConsNP (UsePN interpol_PN) (BaseNP european_union_NP (UsePN unesco_PN))))))))))) NoVoc FullStop
+PhrUttMark NoPConj (UttS (ExtAdvS (PrepNP with_Prep (AdvNP (DetCN (DetQuant IndefArt NumSg) (UseN (CompoundN democracy_2_N index_2_N))) (PrepNP of_1_Prep (DetCN (DetQuant IndefArt (NumCard (NumDecimal (IFrac (IFrac (PosDecimal (IDig D_9)) D_2) D_6)))) (UseN point_10_N))))) (UseCl (TTAnt TPres ASimul) PPos (PredVP (UseLN sweden_LN) (AdvVP (PassVPSlash (SlashV2a rank_2_V2)) (PrepNP as_Prep (DetCN (DetQuant IndefArt NumSg) (AdjCN (PositA full_3_A) (UseN democracy_2_N))))))))) NoVoc FullStop
+PhrUttMark NoPConj (UttS (UseCl (TTAnt TPres ASimul) PPos (PredVP (AdvNP (MassNP (UseN freedom_1_N)) (PrepNP in_1_Prep (DetCN (DetQuant DefArt NumSg) (UseN world_5_N)))) (ComplSlash (Slash2V3 consider_6_V3 (UsePron it_Pron)) (DetCN (DetQuant IndefArt NumSg) (AdjCN (PositA free_1_A) (UseN country_1_N))))))) NoVoc FullStop
+economy_1_N
+PhrUttMark NoPConj (UttS (UseCl (TTAnt TPres ASimul) PPos (PredVP (DetCN (DetQuant DefArt NumSg) (AdjCN (PositA gross_1_A) (AdjCN (PositA domestic_1_A) (UseN product_2_N)))) (UseComp (CompNP (AdvNP (ConjNP and_Conj (BaseNP (QuantityNP (PosDecimal (IIDig D_5 (IIDig D_3 (IIDig D_8 (IIDig D_0 (IIDig D_4 (IIDig D_0 (IIDig D_4 (IIDig D_5 (IIDig D_8 (IIDig D_2 (IIDig D_1 (IDig D_6))))))))))))) dollar_MU) (AdvNP (QuantityNP (PosDecimal (IIDig D_5 (IIDig D_3 (IIDig D_2 (IIDig D_5 (IDig D_3)))))) dollar_MU) per_capita_Adv))) (PrepNP with_Prep (AdvNP (DetCN (DetQuant IndefArt NumSg) (UseN growth_3_N)) (PrepNP of_1_Prep (QuantityNP (IFrac (PosDecimal (IDig D_3)) D_3) percent_MU)))))))))) NoVoc FullStop
+PhrUttMark NoPConj (UttS (UseCl (TTAnt TPres ASimul) PPos (PredVP (DetCN (DetQuant DefArt NumSg) (UseN (CompoundN inflation_1_N rate_2_N))) (UseComp (CompNP (QuantityNP (IFrac (PosDecimal (IDig D_1)) D_7) percent_MU)))))) NoVoc FullStop
+PhrUttMark NoPConj (UttS (UseCl (TTAnt TPres ASimul) PPos (PredVP (DetCN (DetQuant DefArt NumSg) (UseN country_2_N)) (ComplSlash (SlashV2a have_1_V2) (AdvNP (DetCN (DetQuant IndefArt NumSg) (AdjCN (PositA total_1_A) (UseN reserve_2_N))) (PrepNP of_1_Prep (QuantityNP (PosDecimal (IIDig D_6 (IIDig D_2 (IIDig D_1 (IIDig D_9 (IIDig D_1 (IIDig D_4 (IIDig D_8 (IIDig D_1 (IIDig D_1 (IIDig D_9 (IDig D_3)))))))))))) dollar_MU))))))) NoVoc FullStop
+UttS (ConjS and_Conj (BaseS (UseCl (TTAnt TPres ASimul) PPos (PredVP (DetCN (DetQuant DefArt NumSg) (AdjCN (PositA median_3_A) (UseN income_N))) (UseComp (CompNP (QuantityNP (PosDecimal (IIDig D_5 (IIDig D_0 (IIDig D_5 (IIDig D_1 (IDig D_4)))))) dollar_MU))))) (UseCl (TTAnt TPres ASimul) PPos (PredVP (DetCN (DetQuant (PossPron it_Pron) NumSg) (UseN distribution_1_N)) (ComplSlash (SlashV2a show_2_V2) (DetCN (DetQuant IndefArt NumSg) (AdjCN (PositA high_1_A) (UseN equality_1_N))))))))
+QuantityNP (PosDecimal (IIDig D_2 (IDig D_9))) percent_MU
+PhrUttMark NoPConj (UttS (UseCl (TTAnt TPres ASimul) PPos (PredVP (DetCN (DetQuant DefArt NumSg) (AdjCN (PositA official_1_A) (UseN currency_1_N))) (UseComp (CompNP (DetCN (DetQuant DefArt NumSg) (UseN krona_1_N))))))) NoVoc FullStop
+PhrUttMark NoPConj (UttS (UseCl (TTAnt TPres ASimul) PPos (PredVP (DetCN (DetQuant DefArt NumSg) (UseN unemployment_N)) (UseComp (CompNP (QuantityNP (IFrac (PosDecimal (IDig D_8)) D_4) percent_MU)))))) NoVoc FullStop
+PhrUttMark NoPConj (UttS (UseCl (TTAnt TPres ASimul) PPos (PredVP (DetCN (DetQuant DefArt NumSg) (UseN vat_1_N)) (UseComp (CompNP (ConjNP and_Conj (ConsNP (QuantityNP (PosDecimal (IIDig D_2 (IDig D_5))) percent_MU) (ConsNP (AdvNP (QuantityNP (PosDecimal (IIDig D_1 (IDig D_2))) percent_MU) (PrepNP for_Prep (ConjNP and_Conj (BaseNP (MassNP (UseN food_1_N)) (MassNP (UseN hotel_N)))))) (BaseNP (AdvNP (QuantityNP (PosDecimal (IDig D_6)) percent_MU) (PrepNP for_Prep (ConjNP and_Conj (ConsNP (MassNP (UseN book_1_N)) (ConsNP (MassNP (UseN newspaper_3_N)) (BaseNP (MassNP (UseN culture_6_N)) (MassNP (UseN sport_1_N)))))))) (AdvNP (QuantityNP (PosDecimal (IDig D_0)) percent_MU) (PrepNP for_Prep (ConjNP and_Conj (BaseNP (MassNP (UseN rental_2_N)) (MassNP (UseN healthcare_2_N))))))))))))))) NoVoc FullStop
+PhrUttMark NoPConj (UttS (UseCl (TTAnt TPres ASimul) PPos (PredVP (DetCN (DetQuant DefArt NumSg) (AdjCN (PositA individual_4_A) (UseN (CompoundN tax_N rate_4_N)))) (UseComp (CompNP (ConjNP and_Conj (BaseNP (AdvNP (QuantityNP (PosDecimal (IIDig D_2 (IDig D_0))) percent_MU) (PrepNP above_Prep (DetCN (DetQuant IndefArt (NumCard (NumDecimal (PosDecimal (IIDig D_4 (IIDig D_4 (IIDig D_3 (IIDig D_2 (IIDig D_0 (IDig D_0)))))))))) (UseN krona_1_N)))) (AdvNP (QuantityNP (PosDecimal (IIDig D_2 (IDig D_5))) percent_MU) (PrepNP above_Prep (DetCN (DetQuant IndefArt (NumCard (NumDecimal (PosDecimal (IIDig D_6 (IIDig D_3 (IIDig D_8 (IIDig D_8 (IIDig D_0 (IDig D_0)))))))))) (UseN krona_1_N))))))))))) NoVoc FullStop
+-- Q79
+egypt_1_LN
+flag_1_N
+coat_of_arms_N
+PhrUttMark NoPConj (UttS (UseCl (TTAnt TPres ASimul) PPos (PredVP (UseLN egypt_1_LN) (UseComp (CompNP (DetCN (DetQuant IndefArt NumSg) (AdvCN (AdvCN (UseN country_2_N) (PrepNP in_1_Prep (ConjNP and_Conj (BaseNP (UseLN middle_east_LN) (UseLN north_africa_LN))))) (PrepNP with_Prep (DetCN (DetQuant IndefArt (NumCard (NumDecimal (PosDecimal (IIDig D_1 (IIDig D_0 (IIDig D_7 (IIDig D_4 (IIDig D_7 (IIDig D_6 (IIDig D_8 (IIDig D_6 (IDig D_4))))))))))))) (UseN inhabitant_1_N)))))))))) NoVoc FullStop
+PhrUttMark NoPConj (UttS (UseCl (TTAnt TPres ASimul) PPos (PredVP (UsePron it_Pron) (ComplSlash (SlashV2a have_1_V2) (DetCN (DetQuant IndefArt NumPl) (AdvCN (UseN border_1_N) (PrepNP with_Prep (ConjNP and_Conj (ConsNP (UseLN sudan_1_LN) (ConsNP (UseLN libya_LN) (BaseNP (UseLN gaza_strip_LN) (UseLN bir_tawil_3_LN)))))))))))) NoVoc FullStop
+PhrUttMark NoPConj (UttS (UseCl (TTAnt TPres ASimul) PPos (PredVP (DetCN (DetQuant DefArt NumSg) (UseN area_6_N)) (UseComp (CompNP (DetCN (DetQuant IndefArt (NumCard (NumDecimal (PosDecimal (IIDig D_1 (IIDig D_0 (IIDig D_1 (IIDig D_0 (IIDig D_4 (IIDig D_0 (IDig D_7))))))))))) (AdjCN (PositA square_1_A) (UseN kilometre_1_N)))))))) NoVoc FullStop
+PhrUttMark NoPConj (UttS (UseCl (TTAnt TPres ASimul) PPos (PredVP (DetCN (DetQuant DefArt NumSg) (UseN capital_3_N)) (UseComp (CompNP (UseLN cairo_2_LN)))))) NoVoc FullStop
+PhrUttMark NoPConj (UttS (ConjS but_1_Conj (BaseS (UseCl (TTAnt TPres ASimul) PPos (PredVP (MassNP (UseN arabic_N)) (UseComp (CompNP (DetCN (DetQuant DefArt NumSg) (AdjCN (PositA official_1_A) (UseN language_1_N))))))) (UseCl (TTAnt TPres ASimul) PPos (PredVP (MassNP (UseN coptic_N)) (AdVVP also_AdV (PassVPSlash (SlashV2a speak_3_V2)))))))) NoVoc FullStop
+demographic_N
+PhrUttMark NoPConj (UttS (UseCl (TTAnt TPres ASimul) PPos (PredVP (DetCN (DetQuant DefArt NumSg) (UseN life_expectancy_N)) (UseComp (CompNP (DetCN (DetQuant IndefArt (NumCard (NumDecimal (PosDecimal (IIDig D_7 (IDig D_1)))))) (UseN year_1_N))))))) NoVoc FullStop
+PhrUttMark NoPConj (UttS (UseCl (TTAnt TPres ASimul) PPos (PredVP (DetCN (DetQuant DefArt NumSg) (UseN fertility_1_N)) (UseComp (CompNP (DetCN (DetQuant IndefArt (NumCard (NumDecimal (IFrac (IFrac (IFrac (PosDecimal (IDig D_3)) D_3) D_3) D_8)))) (AdvCN (UseN child_2_N) (PrepNP per_Prep (MassNP (UseN woman_1_N)))))))))) NoVoc FullStop
+PhrUttMark NoPConj (UttS (UseCl (TTAnt TPres ASimul) PPos (PredVP (UseLN cairo_2_LN) (UseComp (CompNP (DetCN (DetQuant DefArt NumSg) (AdvCN (AdjCN (AdjOrd (OrdSuperl large_1_A)) (AdvCN (UseN city_1_N) (PrepNP in_1_Prep (UseLN egypt_1_LN)))) (PrepNP with_Prep (DetCN (DetQuant IndefArt (NumCard (NumDecimal (PosDecimal (IIDig D_9 (IIDig D_6 (IIDig D_0 (IIDig D_6 (IIDig D_9 (IIDig D_1 (IDig D_6))))))))))) (UseN inhabitant_1_N)))))))))) NoVoc FullStop
+PhrUtt NoPConj (UttS (UseCl (TTAnt TPres ASimul) PPos (PredVP (DetCN (DetQuant DefArt NumSg) (UseN country_1_N)) (ComplSlash (SlashV2a have_1_V2) (DetCN (DetQuant IndefArt NumSg) (AdjCN (PositA high_1_A) (UseN (CompoundN human_N development_2_N)))))))) NoVoc
+education_1_N
+PhrUttMark NoPConj (UttS (UseCl (TTAnt TPres ASimul) PPos (PredVP (MassNP (UseN education_1_N)) (UseComp (CompAP (AdvAP (PositA obligatory_1_A) (PrepNP for_Prep (DetCN (DetQuant IndefArt NumPl) (PossNP (UseN child_1_N) (MassNP (AdvCN (AdvCN (UseN age_1_N) (PrepNP from_Prep (DetCN (DetQuant IndefArt (NumCard (NumDecimal (PosDecimal (IDig D_6))))) (UseN year_1_N)))) (PrepNP to_1_Prep (DetCN (DetQuant IndefArt (NumCard (NumDecimal (PosDecimal (IIDig D_1 (IDig D_4)))))) (UseN year_1_N)))))))))))))) NoVoc FullStop
+PhrUttMark NoPConj (UttS (UseCl (TTAnt TPres ASimul) PPos (PredVP (UseDAP (DetDAP (DetQuant this_Quant NumSg))) (ComplSlash (SlashV2a result_in_V2) (DetCN (DetQuant IndefArt NumSg) (AdvCN (UseN (CompoundN literacy_N rate_4_N)) (PrepNP of_1_Prep (QuantityNP (PosDecimal (IIDig D_7 (IDig D_1))) percent_MU)))))))) NoVoc FullStop
+PhrUttMark NoPConj (UttS (UseCl (TTAnt TPres ASimul) PPos (PredVP (DetCN (DetQuant IndefArt (NumCard (NumDecimal (PosDecimal (IIDig D_1 (IIDig D_4 (IIDig D_5 (IIDig D_6 (IIDig D_7 (IIDig D_5 (IDig D_8))))))))))) (UseN child_1_N)) (UseComp (CompAdv (PrepNP out_of_3_Prep (DetCN (DetQuant DefArt NumSg) (UseN (CompoundN education_1_N system_1_N))))))))) NoVoc FullStop
+PhrUttMark NoPConj (UttS (UseCl (TTAnt TPres ASimul) PPos (PredVP (UseDAP (DetDAP (DetQuant this_Quant NumSg))) (ComplSlash (SlashV2a amount_to_2_V2) (AdvNP (QuantityNP (IFrac (IFrac (PosDecimal (IDig D_1)) D_3) D_6) percent_MU) (PrepNP of_1_Prep (DetCN (DetQuant DefArt NumSg) (UseN population_1_N)))))))) NoVoc FullStop
+DetCN (DetQuant IndefArt NumPl) (AdjCN (PositA administrative_A) (UseN unit_3_N))
+PredVP (DetCN (DetQuant DefArt NumSg) (UseN country_1_N)) (ComplSlash (SlashV2a have_1_V2) (DetCN (DetQuant DefArt NumPl) (AdjCN (PositA following_2_A) (AdjCN (PositA administrative_A) (UseN unit_3_N)))))
+alexandria_governorate_7_LN
+aswan_governorate_1_LN
+asyut_governorate_3_LN
+beheira_governorate_6_LN
+beni_suef_governorate_2_LN
+cairo_governorate_8_LN
+dakahlia_governorate_3_LN
+damietta_governorate_5_LN
+faiyum_governorate_1_LN
+gharbia_governorate_3_LN
+giza_governorate_7_LN
+ismailia_governorate_5_LN
+\'kafr_el-sheikh_governorate_6_LN\'
+matrouh_governorate_5_LN
+minya_governorate_8_LN
+monufia_governorate_5_LN
+new_valley_governorate_2_LN
+north_sinai_governorate_8_LN
+port_said_governorate_9_LN
+qalyubia_governorate_3_LN
+qena_governorate_2_LN
+red_sea_governorate_2_LN
+sharqia_governorate_5_LN
+sohag_governorate_9_LN
+south_sinai_governorate_7_LN
+suez_governorate_3_LN
+luxor_governorate_2_LN
+politics_2_N
+PhrUttMark NoPConj (UttS (UseCl (TTAnt TPres ASimul) PPos (PredVP (UseLN egypt_1_LN) (UseComp (CompNP (DetCN (DetQuant IndefArt NumSg) (AdvCN (UseN republic_2_N) (PrepNP with_Prep (AdvNP (MassNP (ApposCN (UseN presidentMasc_3_N) (GivenName \'\xca\xbbabd_al-fatt\xc4\x81\xe1\xb8\xa5_2_GN\'))) (PrepNP as_Prep (MassNP (UseN head_of_state_N)))))))))))) NoVoc FullStop
+PhrUttMark NoPConj (UttS (UseCl (TTAnt TPres ASimul) PPos (PredVP (DetCN (DetQuant DefArt NumSg) (AdjCN (PositA current_A) (PossNP (UseN head_4_N) (DetCN (DetQuant gen_Quant NumSg) (UseN government_1_N))))) (UseComp (CompNP (MassNP (ApposCN (UseN prime_minister_2_N) (GivenName mustafa_8_GN)))))))) NoVoc FullStop
+PhrUttMark NoPConj (UttS (UseCl (TTAnt TPres ASimul) PPos (PredVP (DetCN (DetQuant DefArt NumSg) (UseN country_1_N)) (UseComp (CompNP (DetCN (DetQuant IndefArt NumSg) (PossNP (UseN member_4_N) (ConjNP and_Conj (BaseNP (UsePN interpol_PN) (UsePN unesco_PN)))))))))) NoVoc FullStop
+PhrUttMark NoPConj (UttS (ExtAdvS (PrepNP with_Prep (AdvNP (DetCN (DetQuant IndefArt NumSg) (UseN (CompoundN democracy_2_N index_2_N))) (PrepNP of_1_Prep (DetCN (DetQuant IndefArt (NumCard (NumDecimal (IFrac (IFrac (PosDecimal (IDig D_2)) D_9) D_3)))) (UseN point_10_N))))) (UseCl (TTAnt TPres ASimul) PPos (PredVP (UseLN egypt_1_LN) (AdvVP (PassVPSlash (SlashV2a rank_2_V2)) (PrepNP as_Prep (DetCN (DetQuant IndefArt NumSg) (AdjCN (PositA authoritarian_1_A) (UseN regime_1_N))))))))) NoVoc FullStop
+PhrUttMark NoPConj (UttS (UseCl (TTAnt TPres ASimul) PNeg (PredVP (AdvNP (MassNP (UseN freedom_1_N)) (PrepNP in_1_Prep (DetCN (DetQuant DefArt NumSg) (UseN world_5_N)))) (ComplSlash (Slash2V3 consider_6_V3 (UsePron it_Pron)) (DetCN (DetQuant IndefArt NumSg) (AdjCN (PositA free_1_A) (UseN country_1_N))))))) NoVoc FullStop
+economy_1_N
+PhrUttMark NoPConj (UttS (UseCl (TTAnt TPres ASimul) PPos (PredVP (DetCN (DetQuant DefArt NumSg) (AdjCN (PositA gross_1_A) (AdjCN (PositA domestic_1_A) (UseN product_2_N)))) (UseComp (CompNP (AdvNP (ConjNP and_Conj (BaseNP (QuantityNP (PosDecimal (IIDig D_2 (IIDig D_3 (IIDig D_5 (IIDig D_3 (IIDig D_6 (IIDig D_9 (IIDig D_1 (IIDig D_2 (IIDig D_9 (IIDig D_3 (IIDig D_3 (IDig D_7))))))))))))) dollar_MU) (AdvNP (QuantityNP (PosDecimal (IIDig D_2 (IIDig D_4 (IIDig D_1 (IDig D_2))))) dollar_MU) per_capita_Adv))) (PrepNP with_Prep (AdvNP (DetCN (DetQuant IndefArt NumSg) (UseN growth_3_N)) (PrepNP of_1_Prep (QuantityNP (IFrac (PosDecimal (IDig D_4)) D_3) percent_MU)))))))))) NoVoc FullStop
+PhrUttMark NoPConj (UttS (UseCl (TTAnt TPres ASimul) PPos (PredVP (DetCN (DetQuant DefArt NumSg) (UseN (CompoundN inflation_1_N rate_2_N))) (UseComp (CompNP (QuantityNP (PosDecimal (IIDig D_1 (IDig D_4))) percent_MU)))))) NoVoc FullStop
+PhrUttMark NoPConj (UttS (UseCl (TTAnt TPres ASimul) PPos (PredVP (DetCN (DetQuant DefArt NumSg) (UseN country_2_N)) (ComplSlash (SlashV2a have_1_V2) (AdvNP (DetCN (DetQuant IndefArt NumSg) (AdjCN (PositA total_1_A) (UseN reserve_2_N))) (PrepNP of_1_Prep (QuantityNP (PosDecimal (IIDig D_3 (IIDig D_6 (IIDig D_4 (IIDig D_0 (IIDig D_0 (IIDig D_2 (IIDig D_4 (IIDig D_2 (IIDig D_5 (IIDig D_5 (IDig D_5)))))))))))) dollar_MU))))))) NoVoc FullStop
+UttS (UseCl (TTAnt TPres ASimul) PPos (PredVP (DetCN (DetQuant DefArt NumSg) (PossNP (UseN distribution_1_N) (MassNP (UseN income_N)))) (ComplSlash (SlashV2a show_2_V2) (DetCN (DetQuant IndefArt NumSg) (AdjCN (PositA moderate_1_A) (UseN equality_1_N))))))
+QuantityNP (PosDecimal (IIDig D_3 (IDig D_1))) percent_MU
+PhrUttMark NoPConj (UttS (UseCl (TTAnt TPres ASimul) PPos (PredVP (DetCN (DetQuant DefArt NumSg) (AdjCN (PositA official_1_A) (UseN currency_1_N))) (UseComp (CompNP (DetCN (DetQuant DefArt NumSg) (UseN pound_8_N))))))) NoVoc FullStop
+PhrUttMark NoPConj (UttS (UseCl (TTAnt TPres ASimul) PPos (PredVP (DetCN (DetQuant DefArt NumSg) (UseN vat_1_N)) (UseComp (CompNP (QuantityNP (PosDecimal (IIDig D_1 (IDig D_4))) percent_MU)))))) NoVoc FullStop
